@@ -1,0 +1,180 @@
+{
+ "ja": {
+  "T": {
+   "summary_title": "このアプリの良さをひとことで言うと",
+   "needs_title": "こんなお悩みにおすすめ",
+   "faq_title": "よくある質問"
+  },
+  "summary": "「元号西暦」は、**西暦・元号・干支・天皇・総理大臣を1行に並べた年表**で、年代をひと目で調べられるiPhoneアプリです。大化（645年）から令和までの元号に対応し、南北朝の元号も表示。年をタップすれば**今年から何年前か**、2つの年をタップすれば**間の年数と改元の回数**が分かります。家族を登録すると、**高校・大学の入学・卒業（早生まれ・浪人にも対応）や、七五三・厄年・還暦などの節目の年**、各年の年齢（満年齢・数え年）も年表に表示。源平合戦から第二次世界大戦までの主な合戦・出来事も確認できます。",
+  "tags": [
+   "和暦と西暦の変換",
+   "干支・何年前の計算",
+   "天皇・総理大臣",
+   "入学・卒業・七五三・厄年",
+   "日本史の年表",
+   "iPhone"
+  ],
+  "needs": [
+   [
+    "書類の「昭和◯年」「平成◯年」を西暦で知りたい",
+    "西暦と元号が同じ行に並ぶので、変換の手間なく年代が分かります。",
+    "西暦・元号の年表"
+   ],
+   [
+    "生まれ年の干支や、今年から何年前かを知りたい",
+    "年をタップすると、今年から何年前かを表示。十二支と六十干支も確認できます。",
+    "年のタップ・干支表示"
+   ],
+   [
+    "2つの年が何年離れているか知りたい",
+    "2つの年をタップすると、間の年数と、その間に改元が何回あったかが分かります。",
+    "2つの年の差"
+   ],
+   [
+    "その年の天皇や総理大臣を知りたい",
+    "天皇と総理大臣も同じ年表に並びます。表示する列は最大5つまで入れ替えられます。",
+    "列の入れ替え"
+   ],
+   [
+    "家族の七五三や厄年の年を確かめたい",
+    "家族を登録すると、七五三や厄年（性別を設定した場合）の年が年表に表示されます。",
+    "人物の登録"
+   ],
+   [
+    "還暦・古希・喜寿など、お祝いの年を知りたい",
+    "登録した人の還暦から百寿までの長寿祝いの年を、年表の上で確認できます。",
+    "人物の登録"
+   ],
+   [
+    "日本史の流れを年表でつかみたい",
+    "源平合戦から第二次世界大戦までの主な合戦・出来事を、家紋や国旗つきで表示します。",
+    "合戦・出来事の表示"
+   ],
+   [
+    "履歴書に書く入学・卒業の年を、すぐに出したい",
+    "生まれ年と生まれ月を登録すると、高校・大学の入学・卒業の年を年表に表示。1〜3月生まれ（早生まれ）や浪人の年数にも対応しています。",
+    "人物の登録"
+   ],
+   [
+    "よく調べる年を残しておきたい",
+    "お気に入りと履歴に保存できます。年表の行は長押しでコピーして、ほかのアプリに貼り付けられます。",
+    "お気に入り・履歴・コピー"
+   ]
+  ],
+  "faq": [
+   [
+    "何年から何年まで調べられますか？",
+    "大化（645年）から令和までの元号に対応しています。無料版で見られるのは1854年以降で、安政以前（〜1853年）の年代は有料機能です。動画広告を見ると5分間使えます。"
+   ],
+   [
+    "南北朝時代の元号は表示されますか？",
+    "はい。北朝と南朝の元号を両方表示します。"
+   ],
+   [
+    "履歴書に書く学歴の年も分かりますか？",
+    "はい。人物を登録して生まれ年・生まれ月・最終学歴を入れると、高校・大学（大学院も）の入学・卒業の年を年表に表示します。1〜3月生まれ（早生まれ）と浪人の年数にも対応しています。4月1日生まれの方は前の学年になるため、メモで補足してください。"
+   ],
+   [
+    "無料でどこまで使えますか？",
+    "年表・年の差の計算・干支・合戦や出来事の表示は無料で使えます（広告あり）。有料版（月額・年額・買い切り）では、安政以前の年代の閲覧、履歴50件・お気に入り200件（無料版はそれぞれ3件）、元号列の非表示、年ごとのメモ、人物10人までの登録（無料版は1人）が使えます。動画広告を見ると5分間、これらの制限が外れます。"
+   ],
+   [
+    "登録した人物やメモは外部に送信されますか？",
+    "いいえ。登録した人物やメモは端末内に保存され、外部へ送信されることはありません。無料版では広告の表示に通信を使います。"
+   ],
+   [
+    "iPadやMacで使えますか？",
+    "iPhone向けのアプリです（iOS 18.0以降）。"
+   ]
+  ]
+ },
+ "en": {
+  "T": {
+   "summary_title": "What makes this app great, in a nutshell",
+   "needs_title": "Made for moments like these",
+   "faq_title": "Frequently asked questions"
+  },
+  "summary": "Gengo Seireki is an iPhone app that puts **Western years, Japanese era names, the zodiac, emperors and prime ministers side by side in one timeline**, so you can look up any period at a glance. It covers every era from Taika (645) to Reiwa, including the eras of the Northern and Southern Courts. Tap a year to see **how many years ago it was**, or tap two years to see **the years between them and how many era changes occurred**. Register family members to see **school entry and graduation years (birth month aware, including early-born and gap years) and milestones such as Shichi-Go-San, yakudoshi and kanreki**, plus their age each year, on the timeline, along with major battles and events from the Genpei War to World War II.",
+  "tags": [
+   "Japanese era ↔ Western year",
+   "Zodiac and years-ago",
+   "Emperors and prime ministers",
+   "School years and family milestones",
+   "Japanese history timeline",
+   "iPhone"
+  ],
+  "needs": [
+   [
+    "I want the Western year for an era date like Showa 50",
+    "Western years and era names sit on the same row, so you can read the year without converting.",
+    "Era/Western year timeline"
+   ],
+   [
+    "I want the zodiac sign of a year or how many years ago it was",
+    "Tap a year to see how many years ago it was. The twelve animals and the sexagenary cycle are shown too.",
+    "Tap a year / zodiac"
+   ],
+   [
+    "I want to know how far apart two years are",
+    "Tap two years to see the number of years between them and how many times the era changed.",
+    "Difference between two years"
+   ],
+   [
+    "I want to know the emperor or prime minister of a given year",
+    "Emperors and prime ministers appear in the same timeline. You can rearrange up to five columns.",
+    "Customizable columns"
+   ],
+   [
+    "I want to check the Shichi-Go-San or yakudoshi years for my family",
+    "Register a family member to show their Shichi-Go-San and yakudoshi (when gender is set) years on the timeline.",
+    "Person registration"
+   ],
+   [
+    "I want to know the years for longevity celebrations",
+    "See the years of longevity celebrations, from kanreki (60) to hyakuju (100), for each registered person.",
+    "Person registration"
+   ],
+   [
+    "I want to follow Japanese history on a timeline",
+    "Major battles and events from the Genpei War to World War II are shown with family crests and flags.",
+    "Battles and events"
+   ],
+   [
+    "I want my school entry and graduation years for a résumé",
+    "Register a birth year and month to show high school and university entry and graduation years on the timeline — early-born (January–March) birthdays and gap years included.",
+    "Person registration"
+   ],
+   [
+    "I want to keep the years I look up often",
+    "Save them to favorites and history. Long-press a timeline row to copy it and paste it into another app.",
+    "Favorites, history and copy"
+   ]
+  ],
+  "faq": [
+   [
+    "Which years does it cover?",
+    "Every Japanese era from Taika (645) to Reiwa. The free version shows 1854 onward; years up to 1853 (Ansei and earlier) are a paid feature that you can use for 5 minutes after watching a video ad."
+   ],
+   [
+    "Does it show the eras of the Northern and Southern Courts?",
+    "Yes. Eras of both the Northern and Southern Courts are shown."
+   ],
+   [
+    "Can it tell me the school years for my résumé?",
+    "Yes. Register a person with their birth year, birth month and highest education, and the timeline shows high school and university (and graduate school) entry and graduation years. Early-born (January–March) birthdays and gap years are supported. People born on April 1 belong to the previous school year, so add a note for them."
+   ],
+   [
+    "How much can I do for free?",
+    "The timeline, year-difference calculation, zodiac and battles/events are free (with ads). The paid version (monthly, yearly or lifetime) adds years before Ansei, 50 history and 200 favorite entries (3 each for free), hiding the era column, yearly notes and up to 10 registered people (1 for free). Watching a video ad lifts these limits for 5 minutes."
+   ],
+   [
+    "Are the people and notes I register sent anywhere?",
+    "No. Registered people and notes are stored on your device and never sent externally. The free version uses the network to show ads."
+   ],
+   [
+    "Can I use it on iPad or Mac?",
+    "It is an iPhone app (iOS 18.0 or later)."
+   ]
+  ]
+ }
+}

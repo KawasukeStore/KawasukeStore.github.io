@@ -1,0 +1,688 @@
+{
+ "es": {
+  "label": "Español",
+  "full": "Coord y Color: Pixel y Color",
+  "tagline": "Mide dos puntos de una imagen, al píxel.",
+  "category": "Herramientas para desarrolladores",
+  "os": "iOS 18.4 o posterior",
+  "features": [
+   "Toca la imagen para colocar dos puntos, con lupa para afinar al píxel",
+   "Calcula automáticamente ΔX, ΔY y la distancia en línea recta, en píxeles o en proporción de 0 a 1",
+   "Coloca puntos introduciendo coordenadas, ΔX/ΔY o la distancia, o con deslizadores (ajusta varios a la vez con varios dedos)",
+   "Elige cualquiera de las cuatro esquinas como origen (0, 0)",
+   "Lee el color en HEX y RGB (mantén pulsado para copiar)",
+   "Dibuja círculos con el radio que indiques",
+   "Exporta y comparte la imagen con las cruces y círculos, o con el panel de coordenadas",
+   "Abre una segunda imagen y compara posiciones y colores en las mismas coordenadas (Pro)",
+   "Guarda hasta 10 imágenes medidas con sus puntos y cárgalas cuando quieras (Pro)"
+  ],
+  "pricing": [
+   "Gratis con anuncios (medición básica sin límite de imágenes)",
+   "¥100 / mes, ¥300 / año",
+   "Compra única: ¥1,000"
+  ],
+  "updates": {
+   "badge": "Nuevo",
+   "pro": "Función Pro (de pago). Puedes probarla con 3 fotos viendo un anuncio en vídeo.",
+   "title": "Compara dos imágenes en las mismas coordenadas",
+   "body": "Ahora puedes conservar los puntos A y B de la primera imagen y abrir una segunda para colocar los puntos C y D. Los puntos A y B de la primera imagen aparecen con líneas discontinuas en la segunda, y con «Copiar puntos A y B» colocas C y D en las mismas coordenadas al instante. Comprueba con la misma referencia cómo cambian la posición o el color en una foto repetida o en otra imagen con el mismo encuadre.",
+   "steps": [
+    "Coloca los puntos A y B en la primera imagen y mide",
+    "En la segunda imagen, A y B aparecen con líneas discontinuas. Pulsa «Copiar puntos A y B» para poner C y D en las mismas coordenadas y cambia de imagen con el botón «1.ª imagen»"
+   ],
+   "note": "Al probarla con un anuncio, comparar dos imágenes cuenta como una sola foto.",
+   "others": [
+    "Puedes elegir la apariencia: Sistema, Claro u Oscuro",
+    "Al comprar Pro, desaparece el anuncio de la lista de fotos"
+   ],
+   "extra": [
+    {
+     "badge": "Nuevo",
+     "pro": "Función Pro (de pago).",
+     "title": "Guarda imágenes medidas con sus puntos y cárgalas después",
+     "body": "Guarda hasta 10 imágenes medidas junto con las coordenadas de los puntos A y B (radio incluido). Los puntos cargados quedan bloqueados, así que no los moverás por error: ideal para medir el mismo sitio varias veces o tener una referencia fija al comparar con una segunda imagen.",
+     "points": [
+      "Cárgalas desde la lista de fotos o mientras comparas una segunda imagen",
+      "Consulta de un vistazo la fecha de guardado y las coordenadas de A y B",
+      "Elimina varias a la vez con «Seleccionar todo»"
+     ]
+    },
+    {
+     "badge": "Nuevo",
+     "title": "Introduce coordenadas para colocar los puntos con exactitud",
+     "body": "Toca las coordenadas del panel inferior para abrir «Marcar por coordenadas»: escribe X e Y de los puntos A y B o muévelos poco a poco con los deslizadores y los botones ◀ ▶. Así aciertas en la coordenada exacta incluso donde el dedo no llega con precisión.",
+     "points": [
+      "Muestra el rango válido (el tamaño de la imagen)",
+      "Con la posición relativa activada, introduce valores de 0 a 1",
+      "Mueve varios deslizadores a la vez con varios dedos"
+     ]
+    },
+    {
+     "badge": "Nuevo",
+     "title": "Indica ΔX, ΔY o la distancia para mover el otro punto",
+     "body": "Toca ΔX, ΔY o DIST para abrir «Ajustes de diferencia y distancia» y ajústalos escribiendo o con deslizadores. Coloca el otro punto a una distancia concreta: por ejemplo, 1301 px a la derecha y 898 px hacia abajo, o exactamente a 1500 px.",
+     "points": [
+      "Bloquea un punto para mantener fija la referencia mientras ajustas",
+      "Afina con los deslizadores y los botones ◀ ▶"
+     ]
+    },
+    {
+     "badge": "Ahora gratis",
+     "title": "La lupa, el cambio de origen, la posición relativa y más, ahora gratis",
+     "body": "La lupa, el cambio de posición del origen, la posición relativa (0–1) y compartir con el panel de coordenadas eran funciones Pro. Ahora son gratis y sin límite de uso, así que puedes colocar puntos al píxel sin comprar nada.",
+     "points": [
+      "La lupa aparece al colocar o ajustar puntos",
+      "Pon el origen (0, 0) en cualquiera de las cuatro esquinas"
+     ]
+    }
+   ]
+  },
+  "T": {
+   "features": "Funciones principales",
+   "pricing": "Precio",
+   "env": "Requisitos",
+   "legal": "Condiciones y soporte",
+   "price_note": "Precios de la App Store de Japón; consulta el precio actual en la App Store. Las suscripciones se renuevan automáticamente. Puedes cancelarlas en Ajustes > Cuenta de Apple > Suscripciones.",
+   "guide": "La app paso a paso",
+   "updates": "Novedades",
+   "updates_ver": "Novedades de la versión {v}",
+   "updates_others": "Otras mejoras",
+   "appstore": "Ver en la App Store",
+   "rank": "Top {n}",
+   "soon": "Próximamente",
+   "back": "← Volver a las apps",
+   "f_privacy": "Política de privacidad (inglés)",
+   "f_eula": "Condiciones de uso (inglés)",
+   "nav_contact": "Contacto"
+  },
+  "popular_note": "Nuestra app más descargada en los últimos tres meses."
+ },
+ "de": {
+  "label": "Deutsch",
+  "full": "Koord&Farbe: Pixel & Farben",
+  "tagline": "Zwei Punkte auf einem Bild messen – pixelgenau.",
+  "category": "Entwicklertools",
+  "os": "iOS 18.4 oder neuer",
+  "features": [
+   "Tippe auf das Bild, um zwei Punkte zu setzen – mit Lupe für pixelgenaue Platzierung",
+   "ΔX, ΔY und Luftlinienabstand werden automatisch berechnet, in Pixeln oder als Verhältnis von 0 bis 1",
+   "Punkte über Koordinaten, ΔX/ΔY oder Abstand eingeben oder per Schieberegler setzen (mehrere gleichzeitig mit mehreren Fingern feinjustieren)",
+   "Ursprung (0, 0) in eine beliebige der vier Ecken legen",
+   "Farben als HEX und RGB auslesen (lange drücken zum Kopieren)",
+   "Kreise mit beliebigem Radius zeichnen",
+   "Bild mit Fadenkreuzen und Kreisen oder mit Koordinatenfeld exportieren und teilen",
+   "Ein zweites Bild öffnen und Positionen und Farben an denselben Koordinaten vergleichen (Pro)",
+   "Bis zu 10 gemessene Bilder mit ihren Punkten speichern und jederzeit laden (Pro)"
+  ],
+  "pricing": [
+   "Kostenlos mit Werbung (Grundmessung ohne Bildlimit)",
+   "¥100 / Monat, ¥300 / Jahr",
+   "Einmalkauf: ¥1,000"
+  ],
+  "updates": {
+   "badge": "Neu",
+   "pro": "Pro-Funktion (kostenpflichtig). Mit einem Videowerbespot kannst du sie an 3 Fotos ausprobieren.",
+   "title": "Zwei Bilder an denselben Koordinaten vergleichen",
+   "body": "Du kannst jetzt die Punkte A und B des ersten Bildes behalten und ein zweites Bild öffnen, um die Punkte C und D zu setzen. A und B aus dem ersten Bild erscheinen auf dem zweiten als gestrichelte Linien, und mit „Punkte A & B kopieren“ setzt du C und D sofort an dieselben Koordinaten. So prüfst du mit exakt derselben Referenz, wie sich Position oder Farbe bei einer Wiederholungsaufnahme oder einem Bild mit gleichem Ausschnitt verändert haben.",
+   "steps": [
+    "Setze die Punkte A und B auf dem ersten Bild und miss",
+    "Auf dem zweiten Bild erscheinen A und B gestrichelt. Tippe auf „Punkte A & B kopieren“, um C und D an dieselben Koordinaten zu setzen, und wechsle mit der Taste „1. Bild“ zwischen den Bildern"
+   ],
+   "note": "Beim Testen per Werbung zählt der Vergleich zweier Bilder als ein Foto.",
+   "others": [
+    "Erscheinungsbild wählbar: System, Hell oder Dunkel",
+    "Mit Pro verschwindet die Werbung aus der Fotoliste"
+   ],
+   "extra": [
+    {
+     "badge": "Neu",
+     "pro": "Pro-Funktion (kostenpflichtig).",
+     "title": "Gemessene Bilder mit ihren Punkten speichern und später laden",
+     "body": "Speichere bis zu 10 gemessene Bilder zusammen mit den Koordinaten der Punkte A und B (inklusive Radius). Geladene Punkte werden gesperrt gesetzt, sodass du sie nicht versehentlich verschiebst – praktisch, wenn du dieselbe Stelle immer wieder misst oder eine feste Referenz für den Vergleich mit einem zweiten Bild brauchst.",
+     "points": [
+      "Aus der Fotoliste oder während des Vergleichs mit einem zweiten Bild laden",
+      "Speicherdatum und Koordinaten von A und B auf einen Blick",
+      "Mit „Alle auswählen“ mehrere auf einmal löschen"
+     ]
+    },
+    {
+     "badge": "Neu",
+     "title": "Koordinaten eingeben und Punkte exakt setzen",
+     "body": "Tippe auf die Koordinaten im unteren Feld, um „Koordinaten eintragen“ zu öffnen. Gib X und Y für die Punkte A und B ein oder verschiebe sie schrittweise mit Schiebereglern und den Tasten ◀ ▶. So triffst du genau die gewünschte Koordinate – auch dort, wo der Finger nicht präzise zielen kann.",
+     "points": [
+      "Zeigt den gültigen Eingabebereich (die Bildgröße)",
+      "Bei relativer Position Werte von 0 bis 1 eingeben",
+      "Mehrere Schieberegler gleichzeitig mit mehreren Fingern bedienen"
+     ]
+    },
+    {
+     "badge": "Neu",
+     "title": "ΔX, ΔY oder Abstand vorgeben und den anderen Punkt verschieben",
+     "body": "Tippe auf ΔX, ΔY oder DIST, um die „Differenz- und Distanzeinstellungen“ zu öffnen, und passe die Werte per Eingabe oder Schieberegler an. Setze den anderen Punkt in einem festen Versatz – etwa 1301 px nach rechts und 898 px nach unten oder genau 1500 px entfernt.",
+     "points": [
+      "Einen Punkt sperren, damit die Referenz beim Anpassen fest bleibt",
+      "Mit Schiebereglern und den Tasten ◀ ▶ fein einstellen"
+     ]
+    },
+    {
+     "badge": "Jetzt kostenlos",
+     "title": "Lupe, Ursprung, relative Position und mehr jetzt kostenlos",
+     "body": "Die Lupe, das Ändern der Ursprungsposition, die relative Position (0–1) und das Teilen mit Koordinatenfeld waren bisher Pro-Funktionen. Jetzt sind sie kostenlos und ohne Nutzungslimit – pixelgenaues Setzen funktioniert also ganz ohne Kauf.",
+     "points": [
+      "Die Lupe erscheint beim Setzen und Feinjustieren von Punkten",
+      "Ursprung (0, 0) in jede der vier Ecken legen"
+     ]
+    }
+   ]
+  },
+  "T": {
+   "features": "Hauptfunktionen",
+   "pricing": "Preise",
+   "env": "Voraussetzungen",
+   "legal": "Bedingungen & Support",
+   "price_note": "Preise des japanischen App Store; aktuelle Preise findest du im App Store. Abos verlängern sich automatisch. Kündigen kannst du unter Einstellungen > Apple Account > Abonnements.",
+   "guide": "Die App im Detail",
+   "updates": "Neuigkeiten",
+   "updates_ver": "Neu in Version {v}",
+   "updates_others": "Weitere Verbesserungen",
+   "appstore": "Im App Store ansehen",
+   "rank": "Top {n}",
+   "soon": "Demnächst",
+   "back": "← Zurück zu den Apps",
+   "f_privacy": "Datenschutzrichtlinie (Englisch)",
+   "f_eula": "Nutzungsbedingungen (Englisch)",
+   "nav_contact": "Kontakt"
+  },
+  "popular_note": "Unsere meistgeladene App der letzten drei Monate."
+ },
+ "fr": {
+  "label": "Français",
+  "full": "Coord&Coul: Pixel & Couleur",
+  "tagline": "Mesurez deux points sur une image, au pixel près.",
+  "category": "Outils de développement",
+  "os": "iOS 18.4 ou ultérieur",
+  "features": [
+   "Touchez l'image pour placer deux points, avec une loupe pour viser au pixel près",
+   "Calcul automatique de ΔX, ΔY et de la distance en ligne droite, en pixels ou en rapport de 0 à 1",
+   "Placez des points en saisissant des coordonnées, ΔX/ΔY ou une distance, ou avec des curseurs (ajustez-en plusieurs à la fois avec plusieurs doigts)",
+   "Origine (0, 0) au choix dans l'un des quatre coins",
+   "Lecture des couleurs en HEX et RVB (appui long pour copier)",
+   "Tracé de cercles du rayon de votre choix",
+   "Export et partage de l'image avec réticules et cercles, ou avec le panneau des coordonnées",
+   "Ouvrez une deuxième image et comparez positions et couleurs aux mêmes coordonnées (Pro)",
+   "Enregistrez jusqu'à 10 images mesurées avec leurs points et rechargez-les à tout moment (Pro)"
+  ],
+  "pricing": [
+   "Gratuit avec publicités (mesure de base sans limite d'images)",
+   "¥100 / mois, ¥300 / an",
+   "Achat unique : ¥1,000"
+  ],
+  "updates": {
+   "badge": "Nouveau",
+   "pro": "Fonction Pro (payante). Essayez-la sur 3 photos en regardant une vidéo publicitaire.",
+   "title": "Comparez deux images aux mêmes coordonnées",
+   "body": "Vous pouvez désormais conserver les points A et B de la première image et ouvrir une deuxième image pour y placer les points C et D. Les points A et B de la première image apparaissent en pointillés sur la deuxième, et « Copier les points A et B » place aussitôt C et D aux mêmes coordonnées. Vérifiez avec exactement la même référence comment la position ou la couleur a changé sur une photo reprise ou une autre image au même cadrage.",
+   "steps": [
+    "Placez les points A et B sur la première image et mesurez",
+    "Sur la deuxième image, A et B apparaissent en pointillés. Touchez « Copier les points A et B » pour placer C et D aux mêmes coordonnées, puis passez d'une image à l'autre avec le bouton « 1re image »"
+   ],
+   "note": "Lors d'un essai avec une publicité, comparer deux images compte pour une seule photo.",
+   "others": [
+    "Choix de l'apparence : Système, Clair ou Sombre",
+    "L'achat de Pro supprime la publicité de la liste des photos"
+   ],
+   "extra": [
+    {
+     "badge": "Nouveau",
+     "pro": "Fonction Pro (payante).",
+     "title": "Enregistrez les images mesurées avec leurs points et rechargez-les plus tard",
+     "body": "Enregistrez jusqu'à 10 images mesurées avec les coordonnées des points A et B (rayon compris). Les points rechargés sont placés verrouillés, pour ne pas les déplacer par mégarde : pratique pour mesurer plusieurs fois le même endroit ou garder une référence fixe pour comparer une deuxième image.",
+     "points": [
+      "Rechargez-les depuis la liste des photos ou pendant la comparaison d'une deuxième image",
+      "Date d'enregistrement et coordonnées de A et B visibles d'un coup d'œil",
+      "Supprimez-en plusieurs à la fois avec « Tout sélectionner »"
+     ]
+    },
+    {
+     "badge": "Nouveau",
+     "title": "Saisissez des coordonnées pour placer les points exactement",
+     "body": "Touchez les coordonnées du panneau inférieur pour ouvrir « Placer par coordonnées » : saisissez X et Y des points A et B ou déplacez-les petit à petit avec les curseurs et les boutons ◀ ▶. Vous atteignez la coordonnée voulue, même là où le doigt ne peut pas viser précisément.",
+     "points": [
+      "Affiche la plage valide (la taille de l'image)",
+      "En position relative, saisissez des valeurs de 0 à 1",
+      "Manipulez plusieurs curseurs à la fois avec plusieurs doigts"
+     ]
+    },
+    {
+     "badge": "Nouveau",
+     "title": "Indiquez ΔX, ΔY ou la distance pour déplacer l'autre point",
+     "body": "Touchez ΔX, ΔY ou DIST pour ouvrir les « Réglages de l’écart et de la distance » et ajustez-les par saisie ou avec des curseurs. Placez l'autre point à un écart précis : par exemple 1301 px à droite et 898 px vers le bas, ou exactement à 1500 px.",
+     "points": [
+      "Verrouillez un point pour garder la référence fixe pendant le réglage",
+      "Affinez avec les curseurs et les boutons ◀ ▶"
+     ]
+    },
+    {
+     "badge": "Désormais gratuit",
+     "title": "Loupe, origine, position relative et plus encore, désormais gratuits",
+     "body": "La loupe, le changement de position de l'origine, la position relative (0–1) et le partage avec le panneau des coordonnées étaient des fonctions Pro. Ils sont désormais gratuits et sans limite d'utilisation : le placement au pixel près est disponible sans achat.",
+     "points": [
+      "La loupe s'affiche quand vous placez ou ajustez un point",
+      "Placez l'origine (0, 0) dans n'importe lequel des quatre coins"
+     ]
+    }
+   ]
+  },
+  "T": {
+   "features": "Fonctions principales",
+   "pricing": "Tarifs",
+   "env": "Configuration requise",
+   "legal": "Conditions et assistance",
+   "price_note": "Prix de l'App Store japonais ; consultez le prix actuel sur l'App Store. Les abonnements se renouvellent automatiquement. Résiliation dans Réglages > Compte Apple > Abonnements.",
+   "guide": "L'app en détail",
+   "updates": "Nouveautés",
+   "updates_ver": "Nouveautés de la version {v}",
+   "updates_others": "Autres améliorations",
+   "appstore": "Voir sur l'App Store",
+   "rank": "Top {n}",
+   "soon": "Bientôt disponible",
+   "back": "← Retour aux apps",
+   "f_privacy": "Politique de confidentialité (anglais)",
+   "f_eula": "Conditions d'utilisation (anglais)",
+   "nav_contact": "Contact"
+  },
+  "popular_note": "Notre app la plus téléchargée ces trois derniers mois."
+ },
+ "pt": {
+  "label": "Português",
+  "full": "Coord e Cor: Pixel e Cores",
+  "tagline": "Meça dois pontos em uma imagem, com precisão de pixel.",
+  "category": "Ferramentas de desenvolvedor",
+  "os": "iOS 18.4 ou posterior",
+  "features": [
+   "Toque na imagem para posicionar dois pontos, com lupa para precisão de pixel",
+   "Cálculo automático de ΔX, ΔY e distância em linha reta, em pixels ou proporção de 0 a 1",
+   "Posicione pontos digitando coordenadas, ΔX/ΔY ou distância, ou com controles deslizantes (ajuste vários ao mesmo tempo com vários dedos)",
+   "Origem (0, 0) em qualquer um dos quatro cantos",
+   "Leitura de cores em HEX e RGB (toque e segure para copiar)",
+   "Círculos com o raio que você definir",
+   "Exporte e compartilhe a imagem com miras e círculos, ou com o painel de coordenadas",
+   "Abra uma segunda imagem e compare posições e cores nas mesmas coordenadas (Pro)",
+   "Salve até 10 imagens medidas com seus pontos e carregue quando quiser (Pro)"
+  ],
+  "pricing": [
+   "Grátis com anúncios (medição básica sem limite de imagens)",
+   "¥100 / mês, ¥300 / ano",
+   "Compra única: ¥1,000"
+  ],
+  "updates": {
+   "badge": "Novo",
+   "pro": "Recurso Pro (pago). Assistindo a um anúncio em vídeo, você pode testá-lo em 3 fotos.",
+   "title": "Compare duas imagens nas mesmas coordenadas",
+   "body": "Agora você pode manter os pontos A e B da primeira imagem e abrir uma segunda para posicionar os pontos C e D. Os pontos A e B da primeira imagem aparecem como linhas tracejadas na segunda, e com “Copiar pontos A e B” você coloca C e D nas mesmas coordenadas na hora. Verifique com exatamente a mesma referência como a posição ou a cor mudou em uma foto refeita ou em outra imagem com o mesmo enquadramento.",
+   "steps": [
+    "Posicione os pontos A e B na primeira imagem e meça",
+    "Na segunda imagem, A e B aparecem tracejados. Toque em “Copiar pontos A e B” para colocar C e D nas mesmas coordenadas e alterne entre as imagens com o botão “1ª imagem”"
+   ],
+   "note": "Ao testar com um anúncio, comparar duas imagens conta como uma foto.",
+   "others": [
+    "Escolha a aparência: Sistema, Claro ou Escuro",
+    "Com o Pro, o anúncio da lista de fotos deixa de aparecer"
+   ],
+   "extra": [
+    {
+     "badge": "Novo",
+     "pro": "Recurso Pro (pago).",
+     "title": "Salve imagens medidas com seus pontos e carregue depois",
+     "body": "Salve até 10 imagens medidas junto com as coordenadas dos pontos A e B (incluindo o raio). Os pontos carregados ficam bloqueados, então você não os move sem querer — ideal para medir o mesmo lugar várias vezes ou ter uma referência fixa ao comparar uma segunda imagem.",
+     "points": [
+      "Carregue pela lista de fotos ou durante a comparação com uma segunda imagem",
+      "Veja a data em que foi salvo e as coordenadas de A e B de relance",
+      "Exclua vários de uma vez com “Selecionar tudo”"
+     ]
+    },
+    {
+     "badge": "Novo",
+     "title": "Digite coordenadas para posicionar pontos com exatidão",
+     "body": "Toque nas coordenadas do painel inferior para abrir “Marcar por coordenadas”: digite X e Y dos pontos A e B ou mova-os aos poucos com os controles deslizantes e os botões ◀ ▶. Acerte a coordenada exata mesmo onde o dedo não alcança com precisão.",
+     "points": [
+      "Mostra o intervalo válido (o tamanho da imagem)",
+      "Com a posição relativa ativada, digite valores de 0 a 1",
+      "Mova vários controles deslizantes ao mesmo tempo com vários dedos"
+     ]
+    },
+    {
+     "badge": "Novo",
+     "title": "Defina ΔX, ΔY ou a distância para mover o outro ponto",
+     "body": "Toque em ΔX, ΔY ou DIST para abrir “Ajustes de diferença e distância” e ajuste digitando ou com controles deslizantes. Coloque o outro ponto a uma distância exata — por exemplo, 1301 px à direita e 898 px para baixo, ou exatamente a 1500 px.",
+     "points": [
+      "Bloqueie um ponto para manter a referência fixa durante o ajuste",
+      "Ajuste fino com os controles deslizantes e os botões ◀ ▶"
+     ]
+    },
+    {
+     "badge": "Agora grátis",
+     "title": "Lupa, origem, posição relativa e mais agora são grátis",
+     "body": "A lupa, a mudança da posição de origem, a posição relativa (0–1) e o compartilhamento com o painel de coordenadas eram recursos Pro. Agora são grátis e sem limite de uso, então o posicionamento com precisão de pixel está disponível sem compra.",
+     "points": [
+      "A lupa aparece ao posicionar ou ajustar pontos",
+      "Coloque a origem (0, 0) em qualquer um dos quatro cantos"
+     ]
+    }
+   ]
+  },
+  "T": {
+   "features": "Funcionalidades principais",
+   "pricing": "Preço",
+   "env": "Requisitos",
+   "legal": "Termos e suporte",
+   "price_note": "Preços da App Store do Japão; consulte o preço atual na App Store. As assinaturas renovam-se automaticamente. Pode cancelá-las em Definições > Conta Apple > Assinaturas.",
+   "guide": "A app passo a passo",
+   "updates": "Novidades",
+   "updates_ver": "Novidades da versão {v}",
+   "updates_others": "Outras melhorias",
+   "appstore": "Ver na App Store",
+   "rank": "Top {n}",
+   "soon": "Em breve",
+   "back": "← Voltar às apps",
+   "f_privacy": "Política de privacidade (inglês)",
+   "f_eula": "Termos de utilização (inglês)",
+   "nav_contact": "Contacto"
+  },
+  "popular_note": "Nosso app mais baixado nos últimos três meses."
+ },
+ "ko": {
+  "label": "한국어",
+  "full": "좌표와 색 - 픽셀 위치 및 컬러 추출",
+  "tagline": "이미지 위의 두 점을 픽셀 단위로 측정.",
+  "category": "개발자 도구",
+  "os": "iOS 18.4 이상",
+  "features": [
+   "이미지를 탭해 두 점을 배치. 돋보기로 픽셀 단위까지 정확하게 지정",
+   "X 차이·Y 차이·직선 거리를 자동 계산. 픽셀 값과 0~1 비율로 표시",
+   "좌표·ΔX/ΔY·직선 거리를 숫자나 슬라이더로 지정해 점 배치(여러 손가락으로 동시에 미세 조정)",
+   "원점(0, 0)을 네 모서리 중 어디에나 설정",
+   "색상을 HEX·RGB로 표시(길게 눌러 복사)",
+   "지정한 반지름의 원 그리기",
+   "십자선·원이 그려진 이미지나 좌표 패널을 포함한 이미지를 내보내 공유",
+   "두 번째 이미지를 열어 첫 번째와 같은 좌표에서 위치와 색상을 비교(Pro)",
+   "측정한 이미지와 좌표를 최대 10개까지 저장·불러오기(Pro)"
+  ],
+  "pricing": [
+   "기본 무료(광고 포함, 기본 측정은 이미지 수 제한 없음)",
+   "월간 ¥100 / 연간 ¥300",
+   "1회 구매 ¥1,000"
+  ],
+  "updates": {
+   "badge": "새 기능",
+   "pro": "Pro(유료) 기능입니다. 동영상 광고를 보면 사진 3장 분량을 체험할 수 있습니다.",
+   "title": "두 이미지를 같은 좌표에서 비교",
+   "body": "첫 번째 이미지에서 측정한 A·B점을 그대로 둔 채 두 번째 이미지를 열어 C·D점을 배치할 수 있게 되었습니다. 두 번째 이미지에는 첫 번째 이미지의 A·B점이 점선으로 겹쳐 표시되고, 'A·B점 복사'를 누르면 같은 좌표에 C·D점이 바로 놓입니다. 다시 찍은 사진이나 같은 구도의 다른 이미지에서 위치나 색이 어떻게 달라졌는지 같은 기준으로 확인할 수 있습니다.",
+   "steps": [
+    "첫 번째 이미지에서 A·B점을 배치해 측정",
+    "두 번째 이미지를 열면 A·B점이 점선으로 표시됩니다. 'A·B점 복사'로 같은 좌표에 C·D점을 놓고, '첫 번째 이미지' 버튼으로 두 이미지를 전환"
+   ],
+   "note": "광고로 체험하는 경우, 두 장을 비교해도 1장으로 계산됩니다.",
+   "others": [
+    "화면 모드(시스템 설정·라이트·다크)를 선택할 수 있게 되었습니다",
+    "Pro를 구매하면 사진 목록의 광고가 표시되지 않습니다"
+   ],
+   "extra": [
+    {
+     "badge": "새 기능",
+     "pro": "Pro(유료) 기능입니다.",
+     "title": "측정한 이미지와 좌표를 저장하고 나중에 불러오기",
+     "body": "측정한 이미지와 A·B점의 좌표(반지름 포함)를 한 세트로 최대 10개까지 저장할 수 있게 되었습니다. 불러온 점은 잠긴 상태로 배치되어 실수로 움직일 걱정이 없습니다. 같은 곳을 여러 번 측정하거나, 두 번째 이미지와 비교할 기준을 만들 때 편리합니다.",
+     "points": [
+      "사진 목록의 불러오기 버튼이나 두 번째 이미지 비교 중에 불러오기",
+      "저장 일시와 A·B점 좌표를 한눈에 확인",
+      "'모두 선택'으로 한꺼번에 삭제"
+     ]
+    },
+    {
+     "badge": "새 기능",
+     "title": "좌표를 숫자로 지정해 점을 정확하게 배치",
+     "body": "아래 패널의 좌표를 탭하면 '좌표로 배치'가 열리고, A·B점의 X·Y를 숫자로 입력하거나 슬라이더와 ◀▶ 버튼으로 조금씩 움직일 수 있습니다. 손가락으로 노리기 어려운 세밀한 위치에도 정해 둔 좌표에 확실하게 점을 놓을 수 있습니다.",
+     "points": [
+      "입력 가능한 범위(이미지 크기)를 표시",
+      "상대 위치 표시일 때는 0~1로 입력",
+      "여러 손가락으로 여러 슬라이더를 동시에 조작"
+     ]
+    },
+    {
+     "badge": "새 기능",
+     "title": "ΔX·ΔY·직선 거리를 지정해 다른 점을 이동",
+     "body": "ΔX·ΔY·DIST(직선 거리)를 탭하면 '차이 및 거리 설정'이 열리고, 숫자 입력과 슬라이더로 조정할 수 있습니다. '오른쪽으로 1301px, 아래로 898px'이나 '정확히 1500px 떨어뜨리기'처럼 정해진 간격의 위치에 다른 점을 놓을 수 있습니다.",
+     "points": [
+      "점을 잠가 두면 기준점을 움직이지 않고 조정 가능",
+      "슬라이더와 ◀▶ 버튼으로 세밀하게 조정"
+     ]
+    },
+    {
+     "badge": "무료로 전환",
+     "title": "돋보기·원점 변경·상대 위치 표시 등이 무료로",
+     "body": "지금까지 Pro 기능이었던 돋보기, 원점 위치 변경, 상대 위치(0~1) 표시, 좌표 패널을 포함한 공유를 횟수 제한 없이 무료로 쓸 수 있게 되었습니다. 픽셀 단위의 위치 맞춤도 구매 없이 바로 사용할 수 있습니다.",
+     "points": [
+      "점을 배치하거나 미세 조정할 때 돋보기 표시",
+      "원점(0, 0)을 네 모서리 중 어디에나 설정"
+     ]
+    }
+   ]
+  },
+  "T": {
+   "features": "주요 기능",
+   "pricing": "요금",
+   "env": "지원 환경",
+   "legal": "약관 및 지원",
+   "price_note": "가격은 일본 App Store 기준입니다. 최신 가격은 App Store에서 확인해 주세요. 구독은 자동 갱신되며, iPhone의 [설정] > [Apple 계정] > [구독]에서 해지할 수 있습니다.",
+   "guide": "화면 안내",
+   "updates": "업데이트 정보",
+   "updates_ver": "버전 {v}의 새로운 점",
+   "updates_others": "그 밖의 개선",
+   "appstore": "App Store에서 보기",
+   "rank": "인기 {n}위",
+   "soon": "출시 예정",
+   "back": "← 앱 목록으로",
+   "f_privacy": "개인정보 처리방침(영어)",
+   "f_eula": "이용약관(영어)",
+   "nav_contact": "문의"
+  },
+  "popular_note": "최근 3개월 다운로드 수 1위 앱입니다."
+ },
+ "zh-Hans": {
+  "label": "简体中文",
+  "full": "坐标与颜色 - 像素位置与色彩提取",
+  "tagline": "以像素为单位，测量图像上的两个点。",
+  "category": "开发工具",
+  "os": "iOS 18.4 或更高版本",
+  "features": [
+   "轻点图像放置两个点，用放大镜精确到像素",
+   "自动计算 ΔX、ΔY 和直线距离，以像素值或 0～1 比例显示",
+   "通过输入坐标、ΔX/ΔY、距离或拖动滑块放置点（可用多指同时微调多个滑块）",
+   "可将原点 (0, 0) 设在四个角中的任意一个",
+   "以 HEX、RGB 显示颜色（长按可复制）",
+   "按指定半径绘制圆",
+   "导出并共享带十字线和圆的图像，或带坐标面板的图像",
+   "打开第二张图像，在与第一张相同的坐标比较位置和颜色（Pro）",
+   "最多保存 10 组测量过的图像和坐标，并可随时读取（Pro）"
+  ],
+  "pricing": [
+   "基本免费（含广告，基本测量不限图像数量）",
+   "每月 ¥100 / 每年 ¥300",
+   "一次性购买 ¥1,000"
+  ],
+  "updates": {
+   "badge": "新功能",
+   "pro": "此功能为 Pro（付费版）功能。观看视频广告可试用 3 张照片。",
+   "title": "在相同坐标比较两张图像",
+   "body": "现在可以保留第一张图像中测量的 A、B 点，同时打开第二张图像放置 C、D 点。第二张图像上会以虚线叠加显示第一张图像的 A、B 点，点按“复制A、B点”即可立即把 C、D 点放在相同坐标。无论是重拍的照片，还是构图相同的另一张图像，都能用同一基准确认位置或颜色发生了怎样的变化。",
+   "steps": [
+    "在第一张图像上放置 A、B 点并测量",
+    "打开第二张图像后，A、B 点以虚线显示。点按“复制A、B点”把 C、D 点放在相同坐标，再用“第1张图像”按钮在两张图像间切换"
+   ],
+   "note": "通过广告试用时，两张图像对比显示也只计为 1 张。",
+   "others": [
+    "可选择外观（跟随系统、浅色、深色）",
+    "购买 Pro 后，照片列表不再显示广告"
+   ],
+   "extra": [
+    {
+     "badge": "新功能",
+     "pro": "此功能为 Pro（付费版）功能。",
+     "title": "保存测量过的图像和坐标，之后随时读取",
+     "body": "现在可以把测量过的图像与 A、B 点的坐标（含半径）成组保存，最多 10 组。读取的点会以锁定状态放置，不用担心不小心移动。无论是反复测量同一位置，还是为与第二张图像比较准备基准，都更加轻松。",
+     "points": [
+      "可从照片列表的读取按钮或比较第二张图像时读取",
+      "一眼确认保存时间和 A、B 点坐标",
+      "用“全选”一次删除多组"
+     ]
+    },
+    {
+     "badge": "新功能",
+     "title": "输入坐标，精准放置点",
+     "body": "点按下方面板中的坐标即可打开“按坐标放置”，可以用数字输入 A、B 点的 X、Y，或用滑块和 ◀▶ 按钮一点点移动。即使是手指难以瞄准的细微位置，也能把点准确放在指定坐标。",
+     "points": [
+      "显示可输入的范围（图像尺寸）",
+      "显示相对位置时以 0～1 输入",
+      "可用多根手指同时操作多个滑块"
+     ]
+    },
+    {
+     "badge": "新功能",
+     "title": "指定 ΔX、ΔY 或直线距离来移动另一个点",
+     "body": "点按 ΔX、ΔY 或 DIST（直线距离）即可打开“差值与距离设置”，通过输入数字和滑块进行调整。像“向右 1301px、向下 898px”或“正好相距 1500px”这样，把另一个点放到固定间隔的位置。",
+     "points": [
+      "锁定一个点后，可在不移动基准点的情况下调整",
+      "用滑块和 ◀▶ 按钮细致调整"
+     ]
+    },
+    {
+     "badge": "改为免费",
+     "title": "放大镜、更改原点、相对位置显示等改为免费",
+     "body": "以前属于 Pro 功能的放大镜、更改原点位置、相对位置（0～1）显示以及含坐标面板的共享，现在都可以不限次数免费使用。无需购买，也能进行像素级的定位。",
+     "points": [
+      "放置或微调点时显示放大镜",
+      "原点 (0, 0) 可设在四个角中的任意一个"
+     ]
+    }
+   ]
+  },
+  "T": {
+   "features": "主要功能",
+   "pricing": "价格",
+   "env": "系统要求",
+   "legal": "条款与支持",
+   "price_note": "价格为日本 App Store 的价格，最新价格请在 App Store 中确认。订阅会自动续订，可在 iPhone 的［设置］>［Apple 账户］>［订阅］中取消。",
+   "guide": "界面说明",
+   "updates": "更新信息",
+   "updates_ver": "版本 {v} 的新内容",
+   "updates_others": "其他改进",
+   "appstore": "在 App Store 查看",
+   "rank": "人气第 {n} 名",
+   "soon": "即将推出",
+   "back": "← 返回 App 列表",
+   "f_privacy": "隐私政策（英文）",
+   "f_eula": "使用条款（英文）",
+   "nav_contact": "联系我们"
+  },
+  "popular_note": "近 3 个月下载量排名第 1 的 App。"
+ },
+ "zh-Hant": {
+  "label": "繁體中文",
+  "full": "坐標與顏色 - 像素位置與色彩提取",
+  "tagline": "以像素為單位，測量影像上的兩個點。",
+  "category": "開發工具",
+  "os": "iOS 18.4 或以上版本",
+  "features": [
+   "點一下影像放置兩個點，用放大鏡精確到像素",
+   "自動計算 ΔX、ΔY 和直線距離，以像素值或 0～1 比例顯示",
+   "透過輸入座標、ΔX/ΔY、距離或拖動滑桿放置點（可用多指同時微調多個滑桿）",
+   "可將原點 (0, 0) 設在四個角中的任意一個",
+   "以 HEX、RGB 顯示顏色（長按可拷貝）",
+   "依指定半徑繪製圓",
+   "輸出並分享帶十字線和圓的影像，或帶座標面板的影像",
+   "打開第二張影像，在與第一張相同的座標比較位置和顏色（Pro）",
+   "最多儲存 10 組測量過的影像和座標，並可隨時讀取（Pro）"
+  ],
+  "pricing": [
+   "基本免費（含廣告，基本測量不限影像數量）",
+   "每月 ¥100 / 每年 ¥300",
+   "一次性購買 ¥1,000"
+  ],
+  "updates": {
+   "badge": "新功能",
+   "pro": "此功能為 Pro（付費版）功能。觀看影片廣告可試用 3 張照片。",
+   "title": "在相同座標比較兩張影像",
+   "body": "現在可以保留第一張影像中測量的 A、B 點，同時打開第二張影像放置 C、D 點。第二張影像上會以虛線疊加顯示第一張影像的 A、B 點，點一下「複製A、B點」即可立即把 C、D 點放在相同座標。無論是重拍的照片，還是構圖相同的另一張影像，都能用同一基準確認位置或顏色有什麼變化。",
+   "steps": [
+    "在第一張影像上放置 A、B 點並測量",
+    "打開第二張影像後，A、B 點以虛線顯示。點一下「複製A、B點」把 C、D 點放在相同座標，再用「第1張圖像」按鈕在兩張影像間切換"
+   ],
+   "note": "透過廣告試用時，兩張影像對比顯示也只計為 1 張。",
+   "others": [
+    "可選擇外觀（跟隨系統、淺色、深色）",
+    "購買 Pro 後，照片列表不再顯示廣告"
+   ],
+   "extra": [
+    {
+     "badge": "新功能",
+     "pro": "此功能為 Pro（付費版）功能。",
+     "title": "儲存測量過的影像和座標，之後隨時讀取",
+     "body": "現在可以把測量過的影像與 A、B 點的座標（含半徑）成組儲存，最多 10 組。讀取的點會以鎖定狀態放置，不用擔心不小心移動。無論是反覆測量同一位置，還是為與第二張影像比較準備基準，都更加輕鬆。",
+     "points": [
+      "可從照片列表的讀取按鈕或比較第二張影像時讀取",
+      "一眼確認儲存時間和 A、B 點座標",
+      "用「全選」一次刪除多組"
+     ]
+    },
+    {
+     "badge": "新功能",
+     "title": "輸入座標，精準放置點",
+     "body": "點一下下方面板中的座標即可打開「按座標放置」，可以用數字輸入 A、B 點的 X、Y，或用滑桿和 ◀▶ 按鈕一點一點移動。即使是手指難以瞄準的細微位置，也能把點準確放在指定座標。",
+     "points": [
+      "顯示可輸入的範圍（影像尺寸）",
+      "顯示相對位置時以 0～1 輸入",
+      "可用多根手指同時操作多個滑桿"
+     ]
+    },
+    {
+     "badge": "新功能",
+     "title": "指定 ΔX、ΔY 或直線距離來移動另一個點",
+     "body": "點一下 ΔX、ΔY 或 DIST（直線距離）即可打開「差值與距離設置」，透過輸入數字和滑桿進行調整。像「向右 1301px、向下 898px」或「剛好相距 1500px」這樣，把另一個點放到固定間隔的位置。",
+     "points": [
+      "鎖定一個點後，可在不移動基準點的情況下調整",
+      "用滑桿和 ◀▶ 按鈕細緻調整"
+     ]
+    },
+    {
+     "badge": "改為免費",
+     "title": "放大鏡、更改原點、相對位置顯示等改為免費",
+     "body": "以前屬於 Pro 功能的放大鏡、更改原點位置、相對位置（0～1）顯示以及含座標面板的分享，現在都可以不限次數免費使用。無需購買，也能進行像素級的定位。",
+     "points": [
+      "放置或微調點時顯示放大鏡",
+      "原點 (0, 0) 可設在四個角中的任意一個"
+     ]
+    }
+   ]
+  },
+  "T": {
+   "features": "主要功能",
+   "pricing": "價格",
+   "env": "系統需求",
+   "legal": "條款與支援",
+   "price_note": "價格為日本 App Store 的價格，最新價格請在 App Store 中確認。訂閱會自動續訂，可在 iPhone 的［設定］>［Apple 帳號］>［訂閱項目］中取消。",
+   "guide": "畫面說明",
+   "updates": "更新資訊",
+   "updates_ver": "版本 {v} 的新內容",
+   "updates_others": "其他改進",
+   "appstore": "在 App Store 查看",
+   "rank": "人氣第 {n} 名",
+   "soon": "即將推出",
+   "back": "← 返回 App 列表",
+   "f_privacy": "隱私權政策（英文）",
+   "f_eula": "使用條款（英文）",
+   "nav_contact": "聯絡我們"
+  },
+  "popular_note": "近 3 個月下載量排名第 1 的 App。"
+ }
+}

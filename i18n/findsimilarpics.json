@@ -1,0 +1,1010 @@
+{
+ "es": {
+  "label": "Español",
+  "full": "Fotos Similares – Elige tus mejores tomas",
+  "tagline": "Compara fotos parecidas una al lado de otra y quédate solo con las mejores.",
+  "category": "Foto y vídeo",
+  "os": "iOS 18.0 o posterior",
+  "popular_note": "Nuestra segunda app más descargada en los últimos tres meses y una de las versiones de pago más elegidas.",
+  "features": [
+   "Elige una foto de referencia y verás ráfagas y fotos de composición parecida con su puntuación de similitud (0–100)",
+   "Busca en todas las imágenes que ves en la app Fotos del iPhone, incluidas capturas de pantalla, cada foto de las ráfagas y Fotos de iCloud (excepto vídeos y fotos ocultas)",
+   "Vista de comparación lado a lado con zoom y deslizamiento para revisar gestos y enfoque",
+   "Busca filtrando por fecha o lugar de captura con el calendario y el mapa",
+   "Las fotos marcadas como favoritas quedan fuera del borrado masivo",
+   "Los álbumes que crees aparecen con insignias de color y número en los resultados y en la comparación",
+   "El análisis de imágenes se realiza en el dispositivo; tus fotos no se envían a ningún servidor"
+  ],
+  "pricing": [
+   "Gratis con anuncios (límite de búsquedas diarias)",
+   "Pro: ¥100 / mes, ¥300 / año",
+   "Compra única: ¥700"
+  ],
+  "updates": {
+   "badge": "Nuevo",
+   "title": "Busca fotos similares directamente desde la app Fotos",
+   "body": "Ahora puedes enviar la foto que estás viendo en la app Fotos a Fotos Similares con el botón Compartir. Ya no tienes que abrir la app y volver a buscar la foto de referencia.",
+   "steps": [
+    "Abre una foto en la app Fotos, toca Compartir y elige «Fotos Similares»",
+    "Comprueba la foto y toca «OK»",
+    "Al abrir la app, empieza directamente con los resultados de esa foto"
+   ],
+   "note": "Después de compartir, abre Fotos Similares desde la pantalla de inicio (si la abres en menos de una hora, buscará con esa foto).",
+   "others": [
+    "Nuevo icono de la app",
+    "Los controles de la parte inferior de la pantalla de resultados (control de similitud y botones «Álbumes», «Favoritos» y «Eliminar») son más compactos y dejan más espacio para la lista de fotos"
+   ],
+   "pro": "Esta función está disponible en Pro (de pago).",
+   "extra": [
+    {
+     "badge": "Nuevo",
+     "pro": "Esta función está disponible en Pro (de pago).",
+     "title": "«Superponer con la foto base»: superpón dos fotos para ver la diferencia",
+     "body": "La pantalla de comparación ahora puede superponer la foto de referencia y la similar exactamente en la misma posición y tamaño (comparación con cortinilla). A la izquierda de la línea divisoria se ve la foto de referencia y a la derecha la similar; arrastra el tirador (< >) para ver cómo cambia el mismo punto entre las dos. Ideal para encontrar pequeñas diferencias de enfoque, expresión u objetos entre ráfagas casi idénticas.",
+     "points": [
+      "Actívala en Ajustes, en «Vista de comparación» > «Superponer con la foto base»",
+      "Solo con arrastrar el tirador, las dos fotos cambian en la línea divisoria",
+      "Aunque amplíes o desplaces, las dos fotos siguen alineadas en la misma posición y escala"
+     ]
+    }
+   ]
+  },
+  "guide": [
+   {
+    "title": "Elige desde la pantalla de inicio dónde buscar",
+    "body": "Al abrir la app verás, en forma de tarjetas, el número de fotos de tu fototeca, tus favoritos y los álbumes que has creado. También puedes elegir fotos desde el «Calendario» por fecha o desde el «Mapa» por lugar.",
+    "points": [
+     "Incluye «Todas las fotos» y álbumes inteligentes como Favoritos o Capturas",
+     "Los álbumes que creas llevan una insignia de color y número para ver de un vistazo cómo vas organizando",
+     "Desde el menú superior derecho accedes rápido a la gestión de álbumes, la ayuda y los ajustes"
+    ]
+   },
+   {
+    "title": "Recorre la cuadrícula y elige la foto de referencia",
+    "body": "Solo con tocar una foto empieza la búsqueda de fotos similares a partir de ella. Con el control inferior cambias entre 1 y 4 columnas, y si mantienes pulsada una miniatura verás una vista previa ampliada.",
+    "points": [
+     "Toca el corazón de la esquina superior derecha de cada foto para marcarla o desmarcarla como favorita",
+     "Con 1 o 2 columnas se muestran la fecha de captura y el formato (JPG/HEIC, etc.)",
+     "Cambia con fluidez entre muchas columnas para ver más fotos y pocas para ver detalles"
+    ]
+   },
+   {
+    "title": "Revisa la puntuación y los detalles, y organiza en bloque",
+    "body": "Las fotos parecidas a la de referencia aparecen ordenadas por una puntuación de 0 a 100. Cada una muestra barras comparativas de tamaño, lugar y fecha, y puedes marcar las que quieras organizar para actuar sobre todas a la vez.",
+    "points": [
+     "Las fotos del mismo día o tomadas a menos de 50 m llevan una marca (☑) para distinguirlas",
+     "Ajusta con el control inferior el umbral «similitud igual o superior a…»",
+     "Con un toque, «Añadir al álbum», «Añadir a favoritos» o «Eliminar» las seleccionadas (las favoritas quedan protegidas)"
+    ]
+   },
+   {
+    "title": "Compara lado a lado para ver el enfoque y los gestos",
+    "body": "Toca una foto para abrir la comparación a pantalla completa, con la de referencia a la izquierda y la similar a la derecha. Ambas se amplían y se desplazan a la vez, para detectar pequeñas diferencias de enfoque o de expresión en una ráfaga.",
+    "points": [
+     "Arrastra el tirador central (< >) para cambiar el ancho de cada foto (doble toque para volver al centro)",
+     "Las dos fotos se amplían, reducen y mueven sincronizadas; doble toque para ampliar",
+     "Con «Establecer como imagen de referencia» vuelves a buscar usando la foto de la derecha"
+    ]
+   },
+   {
+    "title": "Revisa cada foto en grande y márcala con «Seleccionar»",
+    "body": "Entre las fotos consideradas similares a veces aparecen fotos sin relación (por ejemplo, un torii entre fotos de comida). En ese caso, toca la foto para verla en grande, revísalas una a una y pulsa «Seleccionar» en las que quieras eliminar u organizar después.",
+    "points": [
+     "Pasa a la foto siguiente o anterior con las flechas",
+     "Oculta la foto de referencia con el botón del ojo para ver una sola foto a pantalla completa (Pro)",
+     "También puedes eliminar, marcar como favorita o añadir a un álbum una sola foto en ese momento"
+    ]
+   },
+   {
+    "title": "La selección se mantiene al volver a la lista",
+    "body": "Al volver a la lista con «Cerrar», las fotos que seleccionaste en la vista grande siguen marcadas. Cuando termines de revisarlas, trátalas todas a la vez con los botones inferiores.",
+    "points": [
+     "Eliminar: borra de una vez las fotos que no necesitas",
+     "Álbumes: añade a un álbum las que quieres conservar",
+     "Favoritos: las fotos favoritas quedan fuera del borrado masivo"
+    ]
+   },
+   {
+    "title": "Filtra por fecha, distancia, hora y formato",
+    "body": "Con el botón «Filtrar» de la pantalla de resultados puedes acotar aún más: por ejemplo, fotos de cierta hora durante un viaje, o solo las del mismo lugar o del mismo formato.",
+    "points": [
+     "Fecha: «Todas», «Solo el mismo día» o «Solo días distintos»",
+     "Distancia: solo fotos tomadas en un radio de X km del lugar de la foto de referencia (ajustable)",
+     "Hora: solo ráfagas o fotos seguidas en los X minutos anteriores o posteriores",
+     "También puedes quedarte con el mismo formato (HEIC/JPG) o con las que no son favoritas"
+    ]
+   },
+   {
+    "title": "Busca por el día de captura en el calendario",
+    "body": "Bajo cada día del calendario aparece en naranja el número de fotos tomadas. Así localizas de un vistazo los días de eventos o viajes y, con un toque, abres las fotos de ese día.",
+    "points": [
+     "Muestra mes a mes qué días hiciste fotos y cuántas",
+     "Al tocar un día se abre la cuadrícula de ese día y puedes pasar directamente a buscar similares",
+     "También puedes tocar la fecha de la foto de referencia o de un resultado para saltar a las fotos de ese día"
+    ]
+   }
+  ],
+  "T": {
+   "features": "Funciones principales",
+   "pricing": "Precio",
+   "env": "Requisitos",
+   "legal": "Condiciones y soporte",
+   "price_note": "Precios de la App Store de Japón; consulta el precio actual en la App Store. Las suscripciones se renuevan automáticamente. Puedes cancelarlas en Ajustes > Cuenta de Apple > Suscripciones.",
+   "guide": "La app paso a paso",
+   "updates": "Novedades",
+   "updates_ver": "Novedades de la versión {v}",
+   "updates_others": "Otras mejoras",
+   "appstore": "Ver en la App Store",
+   "rank": "Top {n}",
+   "soon": "Próximamente",
+   "back": "← Volver a las apps",
+   "f_privacy": "Política de privacidad (inglés)",
+   "f_eula": "Condiciones de uso (inglés)",
+   "nav_contact": "Contacto"
+  }
+ },
+ "de": {
+  "label": "Deutsch",
+  "full": "Ähnliche Fotos – Die besten Aufnahmen auswählen",
+  "tagline": "Ähnliche Fotos nebeneinander vergleichen und nur die besten behalten.",
+  "category": "Foto und Video",
+  "os": "iOS 18.0 oder neuer",
+  "popular_note": "Unsere am zweithäufigsten geladene App der letzten drei Monate – und eines unserer meistgekauften Upgrades.",
+  "features": [
+   "Wähle ein Referenzfoto und sieh Serienbilder und Fotos mit ähnlichem Motiv samt Ähnlichkeitswert (0–100)",
+   "Durchsucht alle Bilder, die du in der Fotos-App des iPhone siehst – auch Bildschirmfotos, jedes Bild einer Serie und iCloud-Fotos (ohne Videos und ausgeblendete Fotos)",
+   "Vergleichsansicht nebeneinander – mit Zoomen und Wischen Gesichtsausdruck und Schärfe prüfen",
+   "Mit Kalender und Karte nach Datum oder Aufnahmeort eingrenzen",
+   "Als Favorit markierte Fotos sind vom gemeinsamen Löschen ausgenommen",
+   "Eigene Alben erscheinen als farbige, nummerierte Abzeichen in Ergebnissen und Vergleichsansicht",
+   "Die Bildanalyse läuft auf dem Gerät – deine Fotos werden nicht an Server gesendet"
+  ],
+  "pricing": [
+   "Kostenlos mit Werbung (tägliches Suchlimit)",
+   "Pro: ¥100 / Monat, ¥300 / Jahr",
+   "Einmalkauf: ¥700"
+  ],
+  "updates": {
+   "badge": "Neu",
+   "title": "Ähnliche Fotos direkt aus der Fotos-App suchen",
+   "body": "Du kannst das Foto, das du gerade in der Fotos-App ansiehst, jetzt über die Teilen-Taste an „Ähnliche Fotos“ senden. Kein Öffnen der App und erneutes Suchen nach dem Referenzfoto mehr.",
+   "steps": [
+    "Foto in der Fotos-App öffnen, auf „Teilen“ tippen und „Ähnliche Fotos“ wählen",
+    "Foto prüfen und auf „OK“ tippen",
+    "Beim Öffnen der App startest du direkt mit den Ergebnissen für dieses Foto"
+   ],
+   "note": "Öffne nach dem Teilen „Ähnliche Fotos“ über den Home-Bildschirm (innerhalb einer Stunde wird mit diesem Foto gesucht).",
+   "others": [
+    "Neues App-Symbol",
+    "Die Bedienelemente unten im Ergebnisbildschirm (Ähnlichkeitsregler und die Tasten „Alben“, „Favoriten“ und „Löschen“) sind kompakter – so bleibt mehr Platz für die Fotoliste"
+   ],
+   "pro": "Diese Funktion ist in Pro (kostenpflichtig) verfügbar.",
+   "extra": [
+    {
+     "badge": "Neu",
+     "pro": "Diese Funktion ist in Pro (kostenpflichtig) verfügbar.",
+     "title": "„Mit Basisfoto überlagern“: zwei Fotos genau übereinanderlegen und Unterschiede sehen",
+     "body": "Der Vergleichsbildschirm kann Referenzfoto und ähnliches Foto jetzt an exakt derselben Position und in derselben Größe überlagern (Wischvergleich). Links der Trennlinie siehst du das Referenzfoto, rechts das ähnliche Foto. Ziehe den Griff (< >), um zu sehen, wie sich dieselbe Stelle in beiden Fotos unterscheidet – ideal, um bei fast identischen Serienbildern kleinste Unterschiede bei Schärfe, Ausdruck oder störenden Objekten zu finden.",
+     "points": [
+      "In den Einstellungen unter „Vergleichsanzeige“ „Mit Basisfoto überlagern“ aktivieren",
+      "Einfach den Griff ziehen – an der Trennlinie wechseln die beiden Fotos",
+      "Auch beim Zoomen und Verschieben bleiben beide Fotos in Position und Maßstab deckungsgleich"
+     ]
+    }
+   ]
+  },
+  "guide": [
+   {
+    "title": "Auf dem Startbildschirm den Einstieg wählen",
+    "body": "Beim Öffnen siehst du als Karten die Anzahl der Fotos in deiner Mediathek, deine Favoriten und eigenen Alben. Fotos kannst du auch über den „Kalender“ nach Datum oder über die „Karte“ nach Aufnahmeort wählen.",
+    "points": [
+     "Umfasst „Alle Fotos“ und intelligente Alben wie Favoriten oder Bildschirmfotos",
+     "Eigene Alben tragen ein farbiges, nummeriertes Abzeichen – so siehst du den Ordnungsstand auf einen Blick",
+     "Über das Menü oben rechts schnell zu Albumverwaltung, Hilfe und Einstellungen"
+    ]
+   },
+   {
+    "title": "Im Raster stöbern und ein Referenzfoto wählen",
+    "body": "Ein Tippen auf ein Foto startet sofort die Suche nach ähnlichen Fotos. Mit dem Regler unten wechselst du zwischen 1 und 4 Spalten, und langes Drücken auf eine Miniatur zeigt eine vergrößerte Vorschau.",
+    "points": [
+     "Mit dem Herz oben rechts an jedem Foto direkt als Favorit markieren oder entfernen",
+     "Bei 1–2 Spalten werden Aufnahmedatum und Format (JPG/HEIC usw.) angezeigt",
+     "Fließend wechseln zwischen vielen Spalten für den Überblick und großer Ansicht für Details"
+    ]
+   },
+   {
+    "title": "Ähnlichkeitswert und Details prüfen und gesammelt ordnen",
+    "body": "Fotos, die dem Referenzfoto ähneln, erscheinen nach einem Wert von 0 bis 100 sortiert. Vergleichsbalken zu Dateigröße, Ort und Datum stehen dabei, und du kannst Fotos markieren und gemeinsam bearbeiten.",
+    "points": [
+     "Fotos vom selben Tag oder innerhalb von 50 m tragen ein Häkchen (☑)",
+     "Mit dem Regler unten den Schwellenwert „Ähnlichkeit ab …“ einstellen",
+     "Ausgewählte Fotos per Tipp „Zum Album hinzufügen“, „Zu Favoriten hinzufügen“ oder „Löschen“ (Favoriten bleiben geschützt)"
+    ]
+   },
+   {
+    "title": "Nebeneinander vergleichen – Schärfe und Ausdruck im Detail",
+    "body": "Tippe auf ein Foto, um die Vergleichsansicht im Vollbild zu öffnen: links das Referenzfoto, rechts das ähnliche Foto. Beide lassen sich gleichzeitig zoomen und verschieben – ideal, um feine Unterschiede bei Serienbildern zu erkennen.",
+    "points": [
+     "Den Griff in der Mitte (< >) ziehen, um die Breite der Fotos frei zu ändern (Doppeltippen setzt zurück)",
+     "Beide Fotos zoomen und bewegen sich synchron, Doppeltippen zum Vergrößern",
+     "Mit „Als Referenzbild festlegen“ sofort mit dem rechten Foto neu suchen"
+    ]
+   },
+   {
+    "title": "Jedes Foto groß prüfen und mit „Auswählen“ markieren",
+    "body": "Unter den als ähnlich erkannten Fotos können auch unpassende sein (etwa ein Torii zwischen Essensfotos). Tippe dann auf das Foto, prüfe die Fotos einzeln in der großen Ansicht und tippe bei allen, die du später löschen oder ordnen willst, auf „Auswählen“.",
+    "points": [
+     "Mit den Pfeilen zum nächsten oder vorherigen Foto",
+     "Mit der Augen-Taste das Referenzfoto ausblenden und ein Foto im Vollbild ansehen (Pro)",
+     "Auch einzelne Fotos direkt löschen, favorisieren oder einem Album hinzufügen"
+    ]
+   },
+   {
+    "title": "Die Auswahl bleibt in der Liste erhalten",
+    "body": "Wenn du mit „Schließen“ zur Liste zurückkehrst, bleiben die in der großen Ansicht ausgewählten Fotos markiert. Nach der Durchsicht bearbeitest du sie mit den Tasten unten alle auf einmal.",
+    "points": [
+     "Löschen: nicht benötigte Fotos gesammelt entfernen",
+     "Alben: Fotos, die du behalten willst, gemeinsam einem Album hinzufügen",
+     "Favoriten: favorisierte Fotos sind vom gemeinsamen Löschen ausgenommen"
+    ]
+   },
+   {
+    "title": "Nach Datum, Entfernung, Uhrzeit und Format filtern",
+    "body": "Über die Taste „Filtern“ im Ergebnisbildschirm grenzt du weiter ein – etwa auf Fotos einer bestimmten Tageszeit auf Reisen oder nur auf Fotos vom selben Ort oder im selben Format.",
+    "points": [
+     "Datum: „Alle“, „Nur gleicher Tag“ oder „Nur andere Tage“",
+     "Entfernung: nur Fotos im Umkreis von X km um den Aufnahmeort des Referenzfotos (per Regler)",
+     "Uhrzeit: nur Serien- oder Folgebilder innerhalb von X Minuten davor oder danach",
+     "Auch nach gleichem Format (HEIC/JPG) oder „Nicht favorisiert“ filtern"
+    ]
+   },
+   {
+    "title": "Im Kalender nach Aufnahmetag suchen",
+    "body": "Unter jedem Kalendertag steht in Orange die Zahl der aufgenommenen Fotos. So erkennst du Tage mit Ereignissen oder Reisen auf einen Blick und öffnest per Tipp die Fotos des Tages.",
+    "points": [
+     "Zeigt Monat für Monat, an welchen Tagen und wie viele Fotos du aufgenommen hast",
+     "Ein Tippen auf einen Tag öffnet das Fotoraster dieses Tages – direkt weiter zur Ähnlichkeitssuche",
+     "Auch das Datum des Referenzfotos oder eines Ergebnisses antippen, um zu den Fotos dieses Tages zu springen"
+    ]
+   }
+  ],
+  "T": {
+   "features": "Hauptfunktionen",
+   "pricing": "Preise",
+   "env": "Voraussetzungen",
+   "legal": "Bedingungen & Support",
+   "price_note": "Preise des japanischen App Store; aktuelle Preise findest du im App Store. Abos verlängern sich automatisch. Kündigen kannst du unter Einstellungen > Apple Account > Abonnements.",
+   "guide": "Die App im Detail",
+   "updates": "Neuigkeiten",
+   "updates_ver": "Neu in Version {v}",
+   "updates_others": "Weitere Verbesserungen",
+   "appstore": "Im App Store ansehen",
+   "rank": "Top {n}",
+   "soon": "Demnächst",
+   "back": "← Zurück zu den Apps",
+   "f_privacy": "Datenschutzrichtlinie (Englisch)",
+   "f_eula": "Nutzungsbedingungen (Englisch)",
+   "nav_contact": "Kontakt"
+  }
+ },
+ "fr": {
+  "label": "Français",
+  "full": "Photos Similaires – Gardez vos meilleures prises",
+  "tagline": "Comparez côte à côte les photos qui se ressemblent et ne gardez que les meilleures.",
+  "category": "Photo et vidéo",
+  "os": "iOS 18.0 ou ultérieur",
+  "popular_note": "Notre deuxième app la plus téléchargée ces trois derniers mois, et l'une des versions payantes les plus choisies.",
+  "features": [
+   "Choisissez une photo de référence pour afficher les rafales et les cadrages proches avec un score de similarité (0–100)",
+   "Recherche parmi toutes les images visibles dans l'app Photos de l'iPhone, y compris captures d'écran, chaque photo des rafales et Photos iCloud (hors vidéos et photos masquées)",
+   "Vue de comparaison côte à côte, avec zoom et balayage pour vérifier expressions et netteté",
+   "Recherche filtrée par date ou lieu de prise de vue grâce au calendrier et à la carte",
+   "Les photos ajoutées aux favoris sont exclues de la suppression groupée",
+   "Vos albums apparaissent sous forme de badges colorés et numérotés dans les résultats et la comparaison",
+   "L'analyse des images se fait sur l'appareil ; vos photos ne sont envoyées à aucun serveur"
+  ],
+  "pricing": [
+   "Gratuit avec publicités (recherches quotidiennes limitées)",
+   "Pro : ¥100 / mois, ¥300 / an",
+   "Achat unique : ¥700"
+  ],
+  "updates": {
+   "badge": "Nouveau",
+   "title": "Recherchez des photos similaires directement depuis l'app Photos",
+   "body": "Vous pouvez désormais envoyer la photo affichée dans l'app Photos vers Photos Similaires avec le bouton Partager. Plus besoin d'ouvrir l'app et de rechercher à nouveau la photo de référence.",
+   "steps": [
+    "Ouvrez une photo dans l'app Photos, touchez Partager et choisissez « Photos Similaires »",
+    "Vérifiez la photo et touchez « OK »",
+    "En ouvrant l'app, vous arrivez directement sur les résultats pour cette photo"
+   ],
+   "note": "Après le partage, ouvrez Photos Similaires depuis l'écran d'accueil (dans l'heure, la recherche se lance avec cette photo).",
+   "others": [
+    "Nouvelle icône de l'app",
+    "Les commandes en bas de l'écran des résultats (curseur de similarité et boutons « Albums », « Favoris » et « Supprimer ») sont plus compactes, pour laisser plus de place à la liste des photos"
+   ],
+   "pro": "Cette fonction est disponible avec Pro (payant).",
+   "extra": [
+    {
+     "badge": "Nouveau",
+     "pro": "Cette fonction est disponible avec Pro (payant).",
+     "title": "« Superposer avec la photo de référence » : superposez deux photos pour voir la différence",
+     "body": "L'écran de comparaison peut désormais superposer la photo de référence et la photo similaire exactement à la même position et à la même taille (comparaison par volet). La photo de référence apparaît à gauche de la ligne de séparation et la photo similaire à droite ; faites glisser la poignée (< >) pour voir comment le même endroit diffère entre les deux. Idéal pour repérer d'infimes écarts de netteté, d'expression ou d'éléments parasites dans des rafales presque identiques.",
+     "points": [
+      "Activez « Superposer avec la photo de référence » dans Paramètres, sous « Vue de comparaison »",
+      "Faites simplement glisser la poignée : les deux photos s'échangent au niveau de la ligne",
+      "Même en zoomant ou en déplaçant l'image, les deux photos restent alignées à la même position et à la même échelle"
+     ]
+    }
+   ]
+  },
+  "guide": [
+   {
+    "title": "Choisissez où chercher depuis l'accueil",
+    "body": "À l'ouverture, vous voyez sous forme de cartes le nombre de photos de votre photothèque, vos favoris et vos albums. Vous pouvez aussi choisir des photos par date avec le « Calendrier » ou par lieu avec la « Carte ».",
+    "points": [
+     "« Toutes les photos » et les albums intelligents (Favoris, Captures d'écran…) sont inclus",
+     "Vos albums portent un badge coloré et numéroté pour voir d'un coup d'œil où vous en êtes",
+     "Le menu en haut à droite donne accès à la gestion des albums, à l'aide et aux réglages"
+    ]
+   },
+   {
+    "title": "Parcourez la grille et choisissez la photo de référence",
+    "body": "Il suffit de toucher une photo pour lancer la recherche de photos similaires. Le curseur du bas permet d'afficher de 1 à 4 colonnes, et un appui prolongé sur une vignette affiche un aperçu agrandi.",
+    "points": [
+     "Touchez le cœur en haut à droite de chaque photo pour l'ajouter ou la retirer des favoris",
+     "En 1 ou 2 colonnes, la date de prise de vue et le format (JPG/HEIC…) s'affichent",
+     "Passez en douceur d'un affichage dense pour la vue d'ensemble à un affichage large pour les détails"
+    ]
+   },
+   {
+    "title": "Consultez les scores et les détails, puis rangez en une fois",
+    "body": "Les photos proches de la référence sont classées selon un score de 0 à 100. Des barres comparent taille de fichier, lieu et date, et vous pouvez cocher celles à ranger pour agir sur toutes à la fois.",
+    "points": [
+     "Les photos du même jour ou prises à moins de 50 m portent une coche (☑)",
+     "Réglez avec le curseur du bas le seuil « similarité supérieure ou égale à… »",
+     "En un geste : « Ajouter à l'album », « Ajouter aux favoris » ou « Supprimer » (les favoris restent protégés)"
+    ]
+   },
+   {
+    "title": "Comparez côte à côte la netteté et les expressions",
+    "body": "Touchez une photo pour ouvrir la comparaison plein écran : la référence à gauche, la photo similaire à droite. Les deux se zooment et se déplacent ensemble, pour repérer les moindres écarts de netteté ou d'expression dans une rafale.",
+    "points": [
+     "Faites glisser la poignée centrale (< >) pour ajuster la largeur de chaque photo (double toucher pour recentrer)",
+     "Zoom et déplacement synchronisés sur les deux photos, double toucher pour agrandir",
+     "« Définir comme image de référence » relance la recherche avec la photo de droite"
+    ]
+   },
+   {
+    "title": "Vérifiez chaque photo en grand et marquez-la avec « Sélectionner »",
+    "body": "Parmi les photos jugées similaires, certaines n'ont parfois rien à voir (par exemple un torii au milieu de photos de plats). Touchez alors la photo pour la vérifier en grand, une par une, et touchez « Sélectionner » sur celles à supprimer ou ranger plus tard.",
+    "points": [
+     "Passez à la photo suivante ou précédente avec les flèches",
+     "Masquez la photo de référence avec le bouton en forme d'œil pour afficher une photo en plein écran (Pro)",
+     "Vous pouvez aussi supprimer, ajouter aux favoris ou à un album une seule photo sur le moment"
+    ]
+   },
+   {
+    "title": "La sélection reste en place dans la liste",
+    "body": "Quand vous revenez à la liste avec « Fermer », les photos sélectionnées en grand restent cochées. Une fois la vérification terminée, traitez-les toutes en même temps avec les boutons du bas.",
+    "points": [
+     "Supprimer : effacez d'un coup les photos inutiles",
+     "Albums : ajoutez ensemble à un album les photos à garder",
+     "Favoris : les photos favorites sont exclues de la suppression groupée"
+    ]
+   },
+   {
+    "title": "Filtrez par date, distance, heure et format",
+    "body": "Le bouton « Filtrer » de l'écran des résultats permet d'affiner encore : photos d'un moment précis en voyage, ou seulement celles du même lieu ou du même format.",
+    "points": [
+     "Date : « Toutes », « Même jour uniquement » ou « Autres jours uniquement »",
+     "Distance : seulement les photos prises à moins de X km du lieu de la référence (réglable)",
+     "Heure : seulement les rafales et prises successives à X minutes près",
+     "Filtrage aussi par format identique (HEIC/JPG) ou « Non favoris »"
+    ]
+   },
+   {
+    "title": "Retrouvez un jour de prise de vue dans le calendrier",
+    "body": "Sous chaque jour du calendrier, le nombre de photos prises s'affiche en orange. Repérez d'un coup d'œil les jours d'événements ou de voyage, et touchez-les pour ouvrir les photos du jour.",
+    "points": [
+     "Visualise mois par mois les jours de prise de vue et le nombre de photos",
+     "Toucher un jour ouvre la grille de ce jour, d'où vous pouvez lancer directement une recherche",
+     "Touchez aussi la date de la référence ou d'un résultat pour aller aux photos de ce jour"
+    ]
+   }
+  ],
+  "T": {
+   "features": "Fonctions principales",
+   "pricing": "Tarifs",
+   "env": "Configuration requise",
+   "legal": "Conditions et assistance",
+   "price_note": "Prix de l'App Store japonais ; consultez le prix actuel sur l'App Store. Les abonnements se renouvellent automatiquement. Résiliation dans Réglages > Compte Apple > Abonnements.",
+   "guide": "L'app en détail",
+   "updates": "Nouveautés",
+   "updates_ver": "Nouveautés de la version {v}",
+   "updates_others": "Autres améliorations",
+   "appstore": "Voir sur l'App Store",
+   "rank": "Top {n}",
+   "soon": "Bientôt disponible",
+   "back": "← Retour aux apps",
+   "f_privacy": "Politique de confidentialité (anglais)",
+   "f_eula": "Conditions d'utilisation (anglais)",
+   "nav_contact": "Contact"
+  }
+ },
+ "pt": {
+  "label": "Português",
+  "full": "Fotos Semelhantes – Escolha as melhores fotografias",
+  "tagline": "Compare lado a lado as fotografias parecidas e guarde apenas as melhores.",
+  "category": "Fotografia e vídeo",
+  "os": "iOS 18.0 ou posterior",
+  "popular_note": "A nossa segunda app mais descarregada nos últimos três meses e uma das versões pagas mais escolhidas.",
+  "features": [
+   "Escolha uma fotografia de referência e veja sequências e enquadramentos parecidos com uma pontuação de semelhança (0–100)",
+   "Pesquisa em todas as imagens que vê na app Fotografias do iPhone, incluindo capturas de ecrã, cada fotografia das sequências e Fotografias em iCloud (exceto vídeos e fotografias ocultas)",
+   "Vista de comparação lado a lado, com zoom e deslize para verificar expressões e foco",
+   "Pesquise filtrando por data ou local com o calendário e o mapa",
+   "As fotografias marcadas como favoritas ficam fora da eliminação em lote",
+   "Os álbuns que criar aparecem com distintivos de cor e número nos resultados e na comparação",
+   "A análise das imagens é feita no dispositivo; as suas fotografias não são enviadas para nenhum servidor"
+  ],
+  "pricing": [
+   "Grátis com anúncios (limite diário de pesquisas)",
+   "Pro: ¥100 / mês, ¥300 / ano",
+   "Compra única: ¥700"
+  ],
+  "updates": {
+   "badge": "Novo",
+   "title": "Pesquise fotografias semelhantes diretamente na app Fotografias",
+   "body": "Agora pode enviar a fotografia que está a ver na app Fotografias para a Fotos Semelhantes com o botão Partilhar. Já não precisa de abrir a app e procurar novamente a fotografia de referência.",
+   "steps": [
+    "Abra uma fotografia na app Fotografias, toque em Partilhar e escolha «Fotos Semelhantes»",
+    "Confirme a fotografia e toque em «OK»",
+    "Ao abrir a app, começa diretamente com os resultados dessa fotografia"
+   ],
+   "note": "Depois de partilhar, abra a Fotos Semelhantes a partir do ecrã principal (se a abrir no prazo de uma hora, a pesquisa é feita com essa fotografia).",
+   "others": [
+    "Novo ícone da app",
+    "Os controlos na parte inferior do ecrã de resultados (controlo de semelhança e botões «Álbuns», «Favoritos» e «Excluir») estão mais compactos, deixando mais espaço para a lista de fotografias"
+   ],
+   "pro": "Esta funcionalidade está disponível no Pro (pago).",
+   "extra": [
+    {
+     "badge": "Novo",
+     "pro": "Esta funcionalidade está disponível no Pro (pago).",
+     "title": "«Sobrepor à foto base»: sobreponha duas fotografias para ver a diferença",
+     "body": "O ecrã de comparação pode agora sobrepor a fotografia de referência e a semelhante exatamente na mesma posição e tamanho (comparação por cortina). À esquerda da linha divisória vê a fotografia de referência e à direita a semelhante; arraste a pega (< >) para ver como o mesmo ponto difere entre as duas. Ideal para encontrar pequenas diferenças de foco, expressão ou objetos em sequências quase idênticas.",
+     "points": [
+      "Ative «Sobrepor à foto base» em Configurações, em «Visualização de comparação»",
+      "Basta arrastar a pega e as duas fotografias alternam na linha divisória",
+      "Mesmo ao ampliar ou deslocar, as duas fotografias mantêm-se alinhadas na mesma posição e escala"
+     ]
+    }
+   ]
+  },
+  "guide": [
+   {
+    "title": "Escolha no ecrã inicial onde quer pesquisar",
+    "body": "Ao abrir a app, vê em cartões o número de fotografias da fototeca, os favoritos e os álbuns que criou. Também pode escolher fotografias por data no «Calendário» ou por local no «Mapa».",
+    "points": [
+     "Inclui «Todas as fotos» e álbuns inteligentes como Favoritos ou Capturas de ecrã",
+     "Os álbuns que cria têm um distintivo de cor e número para ver de relance como vai a organização",
+     "No menu superior direito acede rapidamente à gestão de álbuns, à ajuda e às definições"
+    ]
+   },
+   {
+    "title": "Percorra a grelha e escolha a fotografia de referência",
+    "body": "Basta tocar numa fotografia para começar a pesquisa de fotografias semelhantes. Com o controlo inferior alterna entre 1 e 4 colunas e, mantendo premida uma miniatura, vê uma pré-visualização ampliada.",
+    "points": [
+     "Toque no coração no canto superior direito de cada fotografia para a marcar ou desmarcar como favorita",
+     "Com 1 ou 2 colunas, mostra a data e o formato (JPG/HEIC, etc.)",
+     "Alterne suavemente entre muitas colunas para uma visão geral e poucas para ver detalhes"
+    ]
+   },
+   {
+    "title": "Veja as pontuações e os detalhes e organize em lote",
+    "body": "As fotografias parecidas com a de referência aparecem ordenadas por uma pontuação de 0 a 100. Cada uma mostra barras comparativas de tamanho, local e data, e pode marcar as que quer organizar para agir sobre todas de uma vez.",
+    "points": [
+     "As fotografias do mesmo dia ou tiradas a menos de 50 m têm uma marca (☑)",
+     "Ajuste com o controlo inferior o limite «semelhança igual ou superior a…»",
+     "Com um toque, adicione ao álbum, aos favoritos ou elimine as selecionadas (as favoritas ficam protegidas)"
+    ]
+   },
+   {
+    "title": "Compare lado a lado o foco e as expressões",
+    "body": "Toque numa fotografia para abrir a comparação em ecrã inteiro, com a referência à esquerda e a semelhante à direita. Ambas ampliam e deslocam-se em simultâneo, para detetar pequenas diferenças de foco ou expressão numa sequência.",
+    "points": [
+     "Arraste a pega central (< >) para alterar a largura de cada fotografia (toque duplo para recentrar)",
+     "Zoom e deslocação sincronizados nas duas fotografias; toque duplo para ampliar",
+     "Com «Definir como imagem de referência» pesquisa de novo a partir da fotografia da direita"
+    ]
+   },
+   {
+    "title": "Verifique cada fotografia em grande e marque-a com «Selecionar»",
+    "body": "Entre as fotografias consideradas semelhantes, por vezes surgem algumas sem relação (por exemplo, um torii entre fotografias de comida). Nesse caso, toque na fotografia para a ver em grande, verifique-as uma a uma e toque em «Selecionar» nas que quer eliminar ou organizar depois.",
+    "points": [
+     "Passe para a fotografia seguinte ou anterior com as setas",
+     "Oculte a fotografia de referência com o botão do olho para ver uma fotografia em ecrã inteiro (Pro)",
+     "Também pode eliminar, marcar como favorita ou adicionar a um álbum uma única fotografia nesse momento"
+    ]
+   },
+   {
+    "title": "A seleção mantém-se ao voltar à lista",
+    "body": "Ao voltar à lista com «Fechar», as fotografias selecionadas na vista grande continuam marcadas. Quando terminar a verificação, trate-as todas de uma vez com os botões inferiores.",
+    "points": [
+     "Excluir: elimine de uma vez as fotografias de que não precisa",
+     "Álbuns: adicione a um álbum as que quer guardar",
+     "Favoritos: as fotografias favoritas ficam fora da eliminação em lote"
+    ]
+   },
+   {
+    "title": "Filtre por data, distância, hora e formato",
+    "body": "Com o botão «Filtrar» no ecrã de resultados pode restringir ainda mais: por exemplo, fotografias de certa hora durante uma viagem, ou só as do mesmo local ou formato.",
+    "points": [
+     "Data: «Todas», «Só o mesmo dia» ou «Só dias diferentes»",
+     "Distância: só fotografias tiradas num raio de X km do local da referência (ajustável)",
+     "Hora: só sequências ou fotografias seguidas X minutos antes ou depois",
+     "Também filtra pelo mesmo formato (HEIC/JPG) ou por «Não favoritos»"
+    ]
+   },
+   {
+    "title": "Procure pelo dia no calendário",
+    "body": "Por baixo de cada dia do calendário aparece a laranja o número de fotografias tiradas. Identifica de relance os dias de eventos ou viagens e, com um toque, abre as fotografias desse dia.",
+    "points": [
+     "Mostra mês a mês os dias em que tirou fotografias e quantas",
+     "Ao tocar num dia abre a grelha desse dia e pode avançar diretamente para a pesquisa",
+     "Também pode tocar na data da referência ou de um resultado para saltar para as fotografias desse dia"
+    ]
+   }
+  ],
+  "T": {
+   "features": "Funcionalidades principais",
+   "pricing": "Preço",
+   "env": "Requisitos",
+   "legal": "Termos e suporte",
+   "price_note": "Preços da App Store do Japão; consulte o preço atual na App Store. As assinaturas renovam-se automaticamente. Pode cancelá-las em Definições > Conta Apple > Assinaturas.",
+   "guide": "A app passo a passo",
+   "updates": "Novidades",
+   "updates_ver": "Novidades da versão {v}",
+   "updates_others": "Outras melhorias",
+   "appstore": "Ver na App Store",
+   "rank": "Top {n}",
+   "soon": "Em breve",
+   "back": "← Voltar às apps",
+   "f_privacy": "Política de privacidade (inglês)",
+   "f_eula": "Termos de utilização (inglês)",
+   "nav_contact": "Contacto"
+  }
+ },
+ "ko": {
+  "label": "한국어",
+  "full": "유사 사진 검색 - 기준 이미지로 베스트 컷 선별",
+  "tagline": "비슷한 사진을 나란히 비교하고 베스트 컷만 남기세요.",
+  "category": "사진 및 비디오",
+  "os": "iOS 18.0 이상",
+  "popular_note": "최근 3개월 다운로드 수 2위. 유료 버전도 가장 많이 선택되는 앱 중 하나입니다.",
+  "features": [
+   "기준 사진을 한 장 고르면 연속 촬영이나 비슷한 구도의 사진을 유사도(0~100)와 함께 목록으로 표시",
+   "아이폰 '사진' 앱에서 보이는 모든 이미지가 검색 대상(스크린샷, 연속 촬영의 모든 컷, iCloud 사진 포함. 동영상과 가려진 사진은 제외)",
+   "두 장을 나란히 보는 비교 화면에서 확대·스와이프로 표정과 초점 확인",
+   "캘린더와 지도로 날짜·촬영 장소를 좁혀서 검색",
+   "즐겨찾기한 사진은 일괄 삭제 대상에서 제외되어 안심",
+   "만든 앨범은 색상과 번호 배지로 검색 결과와 비교 화면에 표시",
+   "이미지 분석은 기기 안에서 이루어지며, 사진을 서버로 보내지 않습니다"
+  ],
+  "pricing": [
+   "기본 무료(광고 포함, 하루 검색 횟수 제한)",
+   "Pro 1개월 ¥100 / 1년 ¥300",
+   "1회 구매 ¥700"
+  ],
+  "updates": {
+   "badge": "새 기능",
+   "title": "'사진' 앱에서 바로 유사 사진 검색",
+   "body": "iPhone '사진' 앱에서 보고 있는 사진을 공유 버튼으로 유사 사진 검색에 보낼 수 있게 되었습니다. 앱을 연 뒤 기준 이미지를 다시 찾을 필요가 없습니다.",
+   "steps": [
+    "'사진' 앱에서 사진을 열고 공유 버튼에서 '유사 사진 검색'을 선택",
+    "선택한 사진을 확인하고 '확인'",
+    "앱을 열면 그 사진을 기준으로 한 검색 결과부터 시작"
+   ],
+   "note": "공유한 후에는 홈 화면에서 '유사 사진 검색'을 열어 주세요(1시간 이내에 열면 그 사진으로 검색합니다).",
+   "others": [
+    "앱 아이콘을 새롭게 바꾸었습니다",
+    "검색 결과 화면 하단(유사도 슬라이더와 '앨범', '즐겨찾기', '삭제' 버튼)을 간결하게 정리하여 사진 목록을 더 넓게 볼 수 있습니다"
+   ],
+   "pro": "Pro(유료) 기능입니다.",
+   "extra": [
+    {
+     "badge": "새 기능",
+     "pro": "Pro(유료) 기능입니다.",
+     "title": "'기준 사진과 겹쳐서 표시': 두 장을 딱 맞게 겹쳐 차이를 확인",
+     "body": "비교 화면에서 기준 이미지와 유사 이미지를 같은 위치, 같은 크기로 딱 맞게 겹쳐서 표시할 수 있게 되었습니다(와이프 비교). 경계선 왼쪽에는 기준 이미지, 오른쪽에는 유사 이미지가 보이며, 손잡이(< >)를 좌우로 움직이면 같은 부분이 두 장에서 어떻게 다른지 그 자리에서 비교할 수 있습니다. 거의 똑같아 보이는 연속 촬영 사진 중에서 초점이나 표정, 찍혀 들어간 물체의 미세한 차이를 찾는 데 편리합니다.",
+     "points": [
+      "설정의 '비교 화면'에서 '기준 사진과 겹쳐서 표시'를 켜면 사용할 수 있습니다",
+      "손잡이를 좌우로 움직이기만 하면 경계선에서 기준 이미지와 유사 이미지가 바뀜",
+      "확대·이동해도 두 장은 같은 위치, 같은 배율로 겹친 그대로"
+     ]
+    }
+   ]
+  },
+  "guide": [
+   {
+    "title": "홈에서 찾고 싶은 사진의 입구를 선택",
+    "body": "앱을 열면 보관함 전체 사진 수와 즐겨찾기, 직접 만든 앨범이 카드 형태로 표시됩니다. 날짜별 '캘린더'나 촬영지별 '지도'에서도 사진을 고를 수 있습니다.",
+    "points": [
+     "'모든 사진'과 즐겨찾기·스크린샷 등 각종 스마트 앨범을 모두 지원",
+     "직접 만든 앨범에는 색상과 번호 배지가 붙어 정리 상황을 한눈에 확인",
+     "오른쪽 위 메뉴에서 앨범 관리·도움말·설정으로 바로 이동"
+    ]
+   },
+   {
+    "title": "그리드 목록에서 사진을 훑어보고 기준 사진 선택",
+    "body": "사진을 탭하기만 하면 그 사진을 기준으로 유사 사진 검색이 바로 시작됩니다. 화면 아래 슬라이더로 1~4열 표시를 바꿀 수 있고, 썸네일을 길게 누르면 확대 미리보기도 볼 수 있습니다.",
+    "points": [
+     "각 사진 오른쪽 위의 하트 버튼을 탭해 바로 즐겨찾기 설정·해제",
+     "1~2열 표시에서는 촬영일과 파일 형식(JPG/HEIC 등)을 함께 표시",
+     "많은 열로 한눈에 보거나 크게 확대해 세부를 확인하는 표시를 부드럽게 전환"
+    ]
+   },
+   {
+    "title": "유사도 점수와 상세 정보를 보고 한꺼번에 정리",
+    "body": "기준 이미지와 비슷한 사진이 0~100 점수 순으로 표시됩니다. 사진마다 파일 크기·촬영지·촬영 일시 비교 막대가 나란히 있어, 정리할 사진을 체크해 한꺼번에 처리할 수 있습니다.",
+    "points": [
+     "기준 이미지와 같은 날짜이거나 50m 이내에서 촬영한 사진에는 체크 표시(☑)가 붙어 구분하기 쉬움",
+     "하단 슬라이더로 '유사도 ○○ 이상' 표시 기준을 직관적으로 조정",
+     "선택한 사진을 한 번에 '앨범에 추가', '즐겨찾기에 추가', '삭제'(즐겨찾기 사진은 자동 보호)"
+    ]
+   },
+   {
+    "title": "나란히 비교하며 초점과 표정을 세밀하게 확인",
+    "body": "사진을 탭하면 전체 화면 비교 화면이 열리고, 왼쪽에 기준 이미지, 오른쪽에 유사 이미지가 나란히 표시됩니다. 두 장을 동시에 확대·이동할 수 있어 연속 촬영한 표정이나 초점의 미묘한 차이를 정밀하게 비교할 수 있습니다.",
+    "points": [
+     "화면 가운데 핸들(< >)을 좌우로 드래그해 보고 싶은 사진의 표시 폭을 자유롭게 변경(이중 탭으로 가운데로 초기화)",
+     "좌우 사진이 함께 확대·축소·이동하며, 이중 탭으로 확대 전환",
+     "'기준 이미지로 설정' 버튼으로 오른쪽 사진을 새 기준으로 바로 다시 검색"
+    ]
+   },
+   {
+    "title": "큰 화면에서 한 장씩 확인하고 '선택'해 두기",
+    "body": "비슷하다고 판정된 사진 중에는 기준과 관계없는 사진이 섞일 때도 있습니다(음식 사진을 기준으로 했는데 도리이 사진이 나오는 경우 등). 그럴 때는 사진을 탭해 큰 화면에서 한 장씩 내용을 확인하고, 나중에 삭제하거나 정리할 사진에 '선택'을 눌러 둡니다.",
+    "points": [
+     "좌우 화살표로 다음 사진·이전 사진으로 차례로 넘기기",
+     "오른쪽 위 눈 모양 버튼으로 기준 이미지를 숨기면 한 장을 전체 화면으로 표시(Pro)",
+     "그 자리에서 한 장만 삭제·즐겨찾기·앨범에 추가할 수도 있음"
+    ]
+   },
+   {
+    "title": "목록으로 돌아가도 선택은 그대로. 마지막에 한꺼번에 처리",
+    "body": "'닫기'로 목록에 돌아가도 큰 화면에서 '선택'한 사진에는 체크가 그대로 남아 있습니다. 확인을 마치면 화면 아래 버튼으로 선택한 사진을 한꺼번에 처리할 수 있습니다.",
+    "points": [
+     "삭제: 필요 없는 사진을 한꺼번에 삭제",
+     "앨범: 남기고 싶은 사진을 한꺼번에 앨범에 추가",
+     "즐겨찾기: 즐겨찾기한 사진은 일괄 삭제 대상에서 제외"
+    ]
+   },
+   {
+    "title": "촬영일·거리·시간·형식으로 유연하게 필터링",
+    "body": "검색 결과 화면의 '필터링' 버튼으로 조건을 더 좁혀 추출할 수 있습니다. 여행지에서 특정 시간대에 찍은 사진이나, 같은 장소·같은 파일 형식의 사진만 골라 비교할 수 있습니다.",
+    "points": [
+     "촬영일: '전체', '같은 날짜만', '다른 날짜만' 중에서 선택",
+     "거리 필터: 기준 사진 촬영지에서 반경 ○km 이내의 사진으로 한정(슬라이더로 조정)",
+     "시간 필터: 기준 사진 촬영 시각 전후 ○분 이내의 연속 촬영으로 한정",
+     "같은 형식(HEIC/JPG)이나 '즐겨찾기 제외' 추출도 지원"
+    ]
+   },
+   {
+    "title": "캘린더에서 촬영한 날을 골라 찾기",
+    "body": "캘린더의 날짜 아래에 그날 찍은 사진 수가 주황색 숫자로 표시됩니다. 사진을 많이 찍은 행사나 여행 날짜를 한눈에 파악하고, 탭해서 그날의 사진 목록을 열 수 있습니다.",
+    "points": [
+     "월별로 사진을 찍은 날과 촬영 매수를 알기 쉽게 표시",
+     "날짜를 탭하면 그날 찍은 사진 그리드가 바로 열려 그대로 유사 사진 검색으로 진행",
+     "검색 결과의 기준 이미지나 후보의 날짜를 탭해 그날의 사진 목록으로 이동하는 것도 가능"
+    ]
+   }
+  ],
+  "T": {
+   "features": "주요 기능",
+   "pricing": "요금",
+   "env": "지원 환경",
+   "legal": "약관 및 지원",
+   "price_note": "가격은 일본 App Store 기준입니다. 최신 가격은 App Store에서 확인해 주세요. 구독은 자동 갱신되며, iPhone의 [설정] > [Apple 계정] > [구독]에서 해지할 수 있습니다.",
+   "guide": "화면 안내",
+   "updates": "업데이트 정보",
+   "updates_ver": "버전 {v}의 새로운 점",
+   "updates_others": "그 밖의 개선",
+   "appstore": "App Store에서 보기",
+   "rank": "인기 {n}위",
+   "soon": "출시 예정",
+   "back": "← 앱 목록으로",
+   "f_privacy": "개인정보 처리방침(영어)",
+   "f_eula": "이용약관(영어)",
+   "nav_contact": "문의"
+  }
+ },
+ "zh-Hans": {
+  "label": "简体中文",
+  "full": "相似照片查找 - 以基准照片精选最佳照片",
+  "tagline": "并排比较相似的照片，只留下最好的那一张。",
+  "category": "摄影与录像",
+  "os": "iOS 18.0 或更高版本",
+  "popular_note": "近 3 个月下载量排名第 2，也是付费版最受欢迎的 App 之一。",
+  "features": [
+   "选择一张基准照片，即可列出连拍和构图相似的照片，并附上相似度（0～100）",
+   "搜索范围为 iPhone“照片”App 中可见的所有图像（包括截屏、连拍的每一张和 iCloud 照片，不含视频和已隐藏的照片）",
+   "并排显示两张照片的比较视图，可缩放、滑动查看表情和对焦",
+   "通过日历和地图，按日期或拍摄地点筛选搜索",
+   "设为个人收藏的照片不会被批量删除，令人安心",
+   "你创建的相簿会以颜色和编号徽章显示在搜索结果和比较视图中",
+   "图像分析在设备上完成，照片不会发送到服务器"
+  ],
+  "pricing": [
+   "基本免费（含广告，每日搜索次数有限）",
+   "Pro 1 个月 ¥100 / 1 年 ¥300",
+   "一次性购买 ¥700"
+  ],
+  "updates": {
+   "badge": "新功能",
+   "title": "直接从“照片”App 搜索相似照片",
+   "body": "现在可以通过分享按钮，把在 iPhone“照片”App 中查看的照片发送到相似照片查找。无需打开 App 后再重新寻找基准照片。",
+   "steps": [
+    "在“照片”App 中打开照片，轻点分享按钮并选择“相似照片查找”",
+    "确认所选照片后轻点“确定”",
+    "打开 App 后，直接从以该照片为基准的搜索结果开始"
+   ],
+   "note": "分享后，请从主屏幕打开“相似照片查找”（1 小时内打开，将使用该照片进行搜索）。",
+   "others": [
+    "全新的 App 图标",
+    "搜索结果界面底部（相似度滑块以及“相册”“个人收藏”“删除”按钮）更加紧凑，照片列表的显示空间更大"
+   ],
+   "pro": "此功能为 Pro（付费版）功能。",
+   "extra": [
+    {
+     "badge": "新功能",
+     "pro": "此功能为 Pro（付费版）功能。",
+     "title": "“与基准照片叠加显示”：两张照片精准重叠，差异一目了然",
+     "body": "比较界面现在可以把基准照片和相似照片以相同位置、相同大小精准叠加显示（擦除对比）。分界线左侧显示基准照片，右侧显示相似照片，左右拖动手柄（< >），即可当场比较同一位置在两张照片中的不同。非常适合在几乎一模一样的连拍中，找出对焦、表情或误入画面物体的细微差别。",
+     "points": [
+      "在设置的“对比视图”中打开“与基准照片叠加显示”即可使用",
+      "只需左右拖动手柄，基准照片和相似照片就会在分界线处切换",
+      "即使放大或移动，两张照片也始终保持相同位置和相同倍率重叠"
+     ]
+    }
+   ]
+  },
+  "guide": [
+   {
+    "title": "在主页选择要从哪里查找照片",
+    "body": "打开 App 后，照片图库的照片数量、个人收藏以及你创建的相簿会以卡片形式列出。还可以从按日期的“日历”或按拍摄地点的“地图”中选择照片。",
+    "points": [
+     "涵盖“所有照片”以及个人收藏、截屏等各种智能相簿",
+     "你创建的相簿带有颜色和编号徽章，整理进度一目了然",
+     "从右上角菜单快速进入相簿管理、帮助和各项设置"
+    ]
+   },
+   {
+    "title": "在网格中浏览照片，选择一张作为基准",
+    "body": "只需轻点照片，即可立即以该照片为基准开始搜索相似照片。用底部滑块可切换 1～4 列显示，长按缩略图还能查看放大预览。",
+    "points": [
+     "轻点每张照片右上角的爱心按钮，即可当场设为或取消个人收藏",
+     "1～2 列显示时，会在卡片下方显示拍摄日期和文件格式（JPG/HEIC 等）",
+     "通过底部滑块，在便于浏览的多列显示和便于查看细节的放大显示之间顺畅切换"
+    ]
+   },
+   {
+    "title": "查看相似度分数和详细信息，批量整理",
+    "body": "与基准照片相似的照片按 0～100 的分数顺序列出。每张照片都有文件大小、拍摄地点和拍摄时间的比较条，勾选要整理的照片即可批量操作。",
+    "points": [
+     "与基准照片同一天或在 50 米以内拍摄的照片带有勾选标记（☑），便于区分",
+     "用底部滑块直观地调整“相似度 ○○ 以上”的显示阈值",
+     "一键将所选照片“添加到相册”“添加到收藏”或“删除”（个人收藏的照片自动受保护）"
+    ]
+   },
+   {
+    "title": "并排比较视图，细看对焦和表情",
+    "body": "轻点照片即可打开全屏比较视图，左侧为基准照片，右侧为相似照片。两张照片可同时双指缩放和拖动，能精确比较连拍中表情或对焦的细微差别。",
+    "points": [
+     "左右拖动画面中央的手柄（< >），自由调整要查看照片的显示宽度（轻点两下恢复居中）",
+     "左右两张照片同步放大、缩小和移动，轻点两下切换放大",
+     "用“设为基准照片”按钮，立即以右侧照片为新基准重新搜索"
+    ]
+   },
+   {
+    "title": "在大画面中逐张确认，先“选择”起来",
+    "body": "被判定为相似的照片中，有时会混入与基准无关的照片（例如以美食照片为基准，却出现鸟居的照片）。这时可以轻点照片，在大画面中逐张确认内容，对之后想删除或整理的照片先轻点“选择”。",
+    "points": [
+     "用左右箭头依次切换到下一张、上一张照片",
+     "用右上角的眼睛按钮隐藏基准照片，即可全屏显示一张照片（Pro）",
+     "也可以当场只对一张照片进行删除、设为个人收藏或添加到相册"
+    ]
+   },
+   {
+    "title": "回到列表后选择依然保留，最后一并处理",
+    "body": "用“关闭”回到列表后，在大画面中“选择”的照片仍保持勾选。全部确认完毕后，可用画面底部的按钮一并处理所选照片。",
+    "points": [
+     "删除：一次删除不需要的照片",
+     "相册：把想保留的照片一起添加到相册",
+     "个人收藏：设为个人收藏的照片不会被批量删除"
+    ]
+   },
+   {
+    "title": "按拍摄日期、距离、时间和格式灵活筛选",
+    "body": "通过搜索结果界面的“筛选”按钮，可以进一步缩小范围。例如只比较旅行时某个时间段拍的照片，或同一地点、同一文件格式的照片。",
+    "points": [
+     "拍摄日期：从“全部”“仅同一天”“仅不同日期”中选择",
+     "距离筛选：仅限基准照片拍摄地半径 ○ 公里以内的照片（可用滑块调整）",
+     "时间筛选：仅限基准照片拍摄时间前后 ○ 分钟内的连拍或连续拍摄",
+     "也支持筛选“相同类型（HEIC/JPG）”或“非收藏”的照片"
+    ]
+   },
+   {
+    "title": "在日历中选择拍摄日期查找",
+    "body": "日历每个日期下方会用橙色数字显示当天拍摄的照片数量。能一眼看出拍照较多的活动或旅行日期，轻点即可打开当天的照片列表。",
+    "points": [
+     "按月清楚显示拍照的日子和拍摄张数",
+     "轻点日期会直接打开当天拍摄的照片网格，并可直接进入相似照片搜索",
+     "也可以轻点搜索结果中基准照片或候选照片的日期，跳转到当天的照片列表"
+    ]
+   }
+  ],
+  "T": {
+   "features": "主要功能",
+   "pricing": "价格",
+   "env": "系统要求",
+   "legal": "条款与支持",
+   "price_note": "价格为日本 App Store 的价格，最新价格请在 App Store 中确认。订阅会自动续订，可在 iPhone 的［设置］>［Apple 账户］>［订阅］中取消。",
+   "guide": "界面说明",
+   "updates": "更新信息",
+   "updates_ver": "版本 {v} 的新内容",
+   "updates_others": "其他改进",
+   "appstore": "在 App Store 查看",
+   "rank": "人气第 {n} 名",
+   "soon": "即将推出",
+   "back": "← 返回 App 列表",
+   "f_privacy": "隐私政策（英文）",
+   "f_eula": "使用条款（英文）",
+   "nav_contact": "联系我们"
+  }
+ },
+ "zh-Hant": {
+  "label": "繁體中文",
+  "full": "相似照片尋找 - 以基準照片精選最佳照片",
+  "tagline": "並排比較相似的照片，只留下最好的那一張。",
+  "category": "攝影與視訊",
+  "os": "iOS 18.0 或以上版本",
+  "popular_note": "近 3 個月下載量排名第 2，也是付費版最受歡迎的 App 之一。",
+  "features": [
+   "選擇一張基準照片，即可列出連拍和構圖相似的照片，並附上相似度（0～100）",
+   "搜尋範圍為 iPhone「照片」App 中可見的所有影像（包括螢幕截圖、連拍的每一張和 iCloud 照片，不含影片和已隱藏的照片）",
+   "並排顯示兩張照片的比較視圖，可縮放、滑動查看表情和對焦",
+   "透過日曆和地圖，依日期或拍攝地點篩選搜尋",
+   "設為喜好項目的照片不會被批次刪除，令人安心",
+   "你建立的相簿會以顏色和編號徽章顯示在搜尋結果和比較視圖中",
+   "影像分析在裝置上完成，照片不會傳送到伺服器"
+  ],
+  "pricing": [
+   "基本免費（含廣告，每日搜尋次數有限）",
+   "Pro 1 個月 ¥100 / 1 年 ¥300",
+   "一次性購買 ¥700"
+  ],
+  "updates": {
+   "badge": "新功能",
+   "title": "直接從「照片」App 搜尋相似照片",
+   "body": "現在可以透過分享按鈕，把在 iPhone「照片」App 中查看的照片傳送到相似照片尋找。不必打開 App 後再重新尋找基準照片。",
+   "steps": [
+    "在「照片」App 中打開照片，點一下分享按鈕並選擇「相似照片尋找」",
+    "確認所選照片後點一下「確定」",
+    "打開 App 後，直接從以該照片為基準的搜尋結果開始"
+   ],
+   "note": "分享後，請從主畫面打開「相似照片尋找」（1 小時內打開，將使用該照片進行搜尋）。",
+   "others": [
+    "全新的 App 圖像",
+    "搜尋結果畫面底部（相似度滑桿以及「相簿」「喜好項目」「刪除」按鈕）更加精簡，照片列表的顯示空間更大"
+   ],
+   "pro": "此功能為 Pro（付費版）功能。",
+   "extra": [
+    {
+     "badge": "新功能",
+     "pro": "此功能為 Pro（付費版）功能。",
+     "title": "「與基準照片疊加顯示」：兩張照片精準重疊，差異一目了然",
+     "body": "比較畫面現在可以把基準照片和相似照片以相同位置、相同大小精準疊加顯示（擦除比較）。分界線左側顯示基準照片，右側顯示相似照片，左右拖移把手（< >），即可當場比較同一位置在兩張照片中的不同。非常適合在幾乎一模一樣的連拍中，找出對焦、表情或誤入畫面物體的細微差異。",
+     "points": [
+      "在設定的「比較檢視」中開啟「與基準照片疊加顯示」即可使用",
+      "只要左右拖移把手，基準照片和相似照片就會在分界線處切換",
+      "即使放大或移動，兩張照片也始終保持相同位置和相同倍率重疊"
+     ]
+    }
+   ]
+  },
+  "guide": [
+   {
+    "title": "在首頁選擇要從哪裡尋找照片",
+    "body": "打開 App 後，照片圖庫的照片數量、喜好項目以及你建立的相簿會以卡片形式列出。也可以從依日期的「日曆」或依拍攝地點的「地圖」中選擇照片。",
+    "points": [
+     "涵蓋「所有照片」以及喜好項目、截圖等各種智慧型相簿",
+     "你建立的相簿帶有顏色和編號徽章，整理進度一目了然",
+     "從右上角選單快速進入相簿管理、說明和各項設定"
+    ]
+   },
+   {
+    "title": "在格狀列表中瀏覽照片，選擇一張作為基準",
+    "body": "只要點一下照片，就會立即以該照片為基準開始搜尋相似照片。用底部滑桿可切換 1～4 欄顯示，長按縮圖還能查看放大預覽。",
+    "points": [
+     "點一下每張照片右上角的愛心按鈕，即可當場設為或取消喜好項目",
+     "1～2 欄顯示時，會在卡片下方顯示拍攝日期和檔案格式（JPG/HEIC 等）",
+     "透過底部滑桿，在便於瀏覽的多欄顯示和便於查看細節的放大顯示之間順暢切換"
+    ]
+   },
+   {
+    "title": "查看相似度分數和詳細資訊，批次整理",
+    "body": "與基準照片相似的照片依 0～100 的分數順序列出。每張照片都有檔案大小、拍攝地點和拍攝時間的比較條，勾選要整理的照片即可批次操作。",
+    "points": [
+     "與基準照片同一天或在 50 公尺內拍攝的照片帶有勾選標記（☑），容易分辨",
+     "用底部滑桿直覺地調整「相似度 ○○ 以上」的顯示門檻",
+     "一鍵將所選照片「加入相簿」「加入喜好項目」或「刪除」（喜好項目的照片自動受保護）"
+    ]
+   },
+   {
+    "title": "並排比較視圖，細看對焦和表情",
+    "body": "點一下照片即可打開全螢幕比較視圖，左側為基準照片，右側為相似照片。兩張照片可同時雙指縮放和拖移，能精確比較連拍中表情或對焦的細微差異。",
+    "points": [
+     "左右拖移畫面中央的把手（< >），自由調整要查看照片的顯示寬度（點兩下恢復置中）",
+     "左右兩張照片同步放大、縮小和移動，點兩下切換放大",
+     "用「設為基準照片」按鈕，立即以右側照片為新基準重新搜尋"
+    ]
+   },
+   {
+    "title": "在大畫面中逐張確認，先「選取」起來",
+    "body": "被判定為相似的照片中，有時會混入與基準無關的照片（例如以美食照片為基準，卻出現鳥居的照片）。這時可以點一下照片，在大畫面中逐張確認內容，對之後想刪除或整理的照片先點一下「選取」。",
+    "points": [
+     "用左右箭頭依序切換到下一張、上一張照片",
+     "用右上角的眼睛按鈕隱藏基準照片，即可全螢幕顯示一張照片（Pro）",
+     "也可以當場只對一張照片進行刪除、設為喜好項目或加入相簿"
+    ]
+   },
+   {
+    "title": "回到列表後選取依然保留，最後一併處理",
+    "body": "用「關閉」回到列表後，在大畫面中「選取」的照片仍保持勾選。全部確認完畢後，可用畫面底部的按鈕一併處理所選照片。",
+    "points": [
+     "刪除：一次刪除不需要的照片",
+     "相簿：把想保留的照片一起加入相簿",
+     "喜好項目：設為喜好項目的照片不會被批次刪除"
+    ]
+   },
+   {
+    "title": "依拍攝日期、距離、時間和格式彈性篩選",
+    "body": "透過搜尋結果畫面的「篩選」按鈕，可以進一步縮小範圍。例如只比較旅行時某個時段拍的照片，或同一地點、同一檔案格式的照片。",
+    "points": [
+     "拍攝日期：從「全部」「僅同一天」「僅不同日期」中選擇",
+     "距離篩選：僅限基準照片拍攝地半徑 ○ 公里內的照片（可用滑桿調整）",
+     "時間篩選：僅限基準照片拍攝時間前後 ○ 分鐘內的連拍或連續拍攝",
+     "也支援篩選「相同類型（HEIC/JPG）」或「非喜好項目」的照片"
+    ]
+   },
+   {
+    "title": "在日曆中選擇拍攝日期尋找",
+    "body": "日曆每個日期下方會用橘色數字顯示當天拍攝的照片數量。能一眼看出拍照較多的活動或旅行日期，點一下即可打開當天的照片列表。",
+    "points": [
+     "依月份清楚顯示拍照的日子和拍攝張數",
+     "點一下日期會直接打開當天拍攝的照片格狀列表，並可直接進入相似照片搜尋",
+     "也可以點一下搜尋結果中基準照片或候選照片的日期，跳到當天的照片列表"
+    ]
+   }
+  ],
+  "T": {
+   "features": "主要功能",
+   "pricing": "價格",
+   "env": "系統需求",
+   "legal": "條款與支援",
+   "price_note": "價格為日本 App Store 的價格，最新價格請在 App Store 中確認。訂閱會自動續訂，可在 iPhone 的［設定］>［Apple 帳號］>［訂閱項目］中取消。",
+   "guide": "畫面說明",
+   "updates": "更新資訊",
+   "updates_ver": "版本 {v} 的新內容",
+   "updates_others": "其他改進",
+   "appstore": "在 App Store 查看",
+   "rank": "人氣第 {n} 名",
+   "soon": "即將推出",
+   "back": "← 返回 App 列表",
+   "f_privacy": "隱私權政策（英文）",
+   "f_eula": "使用條款（英文）",
+   "nav_contact": "聯絡我們"
+  }
+ }
+}

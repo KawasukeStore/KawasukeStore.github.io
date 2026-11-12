@@ -1,0 +1,188 @@
+{
+ "ja": {
+  "T": {
+   "summary_title": "このアプリの良さをひとことで言うと",
+   "needs_title": "こんなお悩みにおすすめ",
+   "faq_title": "よくある質問"
+  },
+  "summary": "「画像比較」は、2枚の写真を選ぶだけで、**どこがどれだけ違うのかを目で見て確かめられる**iPhone・iPadアプリです。半透明で重ねる「ブレンド」、パッと切り替える「A/B切替」に加え、手ぶれや撮影位置のずれを**特徴点で自動補正する「位置合わせ」**、**違う部分をヒートマップで色づけする「差分」**、境界線を動かして見比べる「スライダー」の5つのモードで比べられます。2枚がピクセル単位で完全に同じなら「同じ画像」と表示。画像の処理は端末内で行い、写真をサーバーへ送りません。",
+  "tags": [
+   "ビフォー・アフターの比較",
+   "違いをヒートマップで表示",
+   "ずれの自動補正",
+   "同じ画像かの判定",
+   "端末内で処理",
+   "iPhone / iPad"
+  ],
+  "needs": [
+   [
+    "修正前と修正後の2枚を見比べたい",
+    "デザインやスクリーンショット、レタッチ前後の写真を、ボタンひとつでパッと切り替えて違いを確認できます。",
+    "A/B切替"
+   ],
+   [
+    "どこが変わったのか、ひと目で知りたい",
+    "2枚の差が大きい部分をヒートマップで色づけ。感度を上げれば、目では気づきにくい小さな違いも浮かび上がります。",
+    "差分（有料機能）"
+   ],
+   [
+    "手持ちで撮った2枚がずれていて比べにくい",
+    "特徴点を見つけて、移動・回転・拡大縮小を自動で補正。遠近のゆがみ（台形）の補正にも対応し、うまくいかないときは2本指で手動調整できます。",
+    "位置合わせ（有料機能）"
+   ],
+   [
+    "同じ場所の変化を、写真で記録したい",
+    "工事の進み具合や庭の様子など、別の日に同じ場所で撮った写真を位置合わせして重ね、変わったところを確かめられます。",
+    "位置合わせ＋ブレンド"
+   ],
+   [
+    "2枚が本当に同じ画像か確かめたい",
+    "2枚がピクセル単位で完全に一致すると「同じ画像」と表示されます。見た目では分からない差もはっきりします。",
+    "完全一致のチェック"
+   ],
+   [
+    "2枚を半透明で重ねて見たい",
+    "透明度を変えながら2枚を重ねて、形や位置のずれを確認できます。",
+    "ブレンド"
+   ],
+   [
+    "境界線を動かしながら細部を見比べたい",
+    "スライダーで2枚の表示を分け、境目を動かしながら比較。縦横の明るさ（輝度）の変化をグラフでも確認できます。",
+    "スライダー（有料機能）"
+   ],
+   [
+    "写真をアップロードせずに比べたい",
+    "画像の処理は端末内で行い、写真を開発者や第三者のサーバーへ送りません。",
+    "端末内で処理"
+   ],
+   [
+    "使いたい機能だけを買いたい",
+    "位置合わせ・差分・スライダーは、機能ごとに買い切りできます。動画広告を見れば、そのモードを1回試せます。",
+    "機能別の買い切り"
+   ]
+  ],
+  "faq": [
+   [
+    "「類似写真検索」とは何が違いますか？",
+    "類似写真検索は、写真ライブラリの中から似た写真を探して整理するアプリです。画像比較は、選んだ2枚を細かく比べて、どこがどれだけ違うのかを確かめるためのアプリです。"
+   ],
+   [
+    "比べる2枚はどこから選びますか？",
+    "iPhone・iPadの「写真」アプリのライブラリから2枚を選びます。iCloud写真の場合は、元の画像を読み込むためにAppleのiCloudと通信することがあります。"
+   ],
+   [
+    "撮影位置がずれた写真でも比べられますか？",
+    "はい。「位置合わせ」モードで、移動・回転・拡大縮小を自動で補正できます。遠近のゆがみ（台形）も補正でき、自動でうまく合わないときは2本指で手動調整できます。"
+   ],
+   [
+    "写真は外部のサーバーに送信されますか？",
+    "いいえ。画像の処理は端末内で行い、写真を開発者や第三者のサーバーへ送ることはありません。無料版では広告の表示に通信を使います。"
+   ],
+   [
+    "比較した結果を保存・共有できますか？",
+    "比較している画面を画像にして、共有シートから保存したり、ほかのアプリへ送ったりできます。"
+   ],
+   [
+    "無料でどこまで使えますか？",
+    "「ブレンド」と「A/B切替」は無料で使えます（広告あり）。「位置合わせ」「差分」「スライダー」は有料機能で、動画広告を見るとそのモードを1回使えます。月額・年額プランか全機能の買い切りですべてのモードが使え、機能ごとの買い切りもあります。"
+   ],
+   [
+    "対応している機種は？",
+    "iOS 18.0以降のiPhoneと、iPadOS 18.0以降のiPadに対応しています。"
+   ]
+  ]
+ },
+ "en": {
+  "T": {
+   "summary_title": "What makes this app great, in a nutshell",
+   "needs_title": "Made for moments like these",
+   "faq_title": "Frequently asked questions"
+  },
+  "summary": "Image Compare is an iPhone and iPad app that lets you **see exactly where and how much two photos differ** — just pick two images. Compare them in five modes: Blend (semi-transparent overlay), A/B (instant toggle), **Align, which automatically corrects shake and framing shifts using feature points**, **Diff, which highlights differences as a heatmap**, and Wipe, which lets you drag a divider between them. If the two images match pixel for pixel, the app tells you they are identical. Images are processed on your device and never uploaded to a server.",
+  "tags": [
+   "Before-and-after comparison",
+   "Difference heatmap",
+   "Automatic alignment",
+   "Identical-image check",
+   "On-device processing",
+   "iPhone / iPad"
+  ],
+  "needs": [
+   [
+    "I want to compare a before and after version",
+    "Flip between two versions of a design, a screenshot or a retouched photo with a single tap to spot what changed.",
+    "A/B mode"
+   ],
+   [
+    "I want to see at a glance what changed",
+    "Areas with large differences are colored as a heatmap. Raise the sensitivity to reveal small differences that are easy to miss by eye.",
+    "Diff mode (paid)"
+   ],
+   [
+    "My two handheld shots don't line up",
+    "Feature points are matched to correct shift, rotation and scale automatically, including perspective (keystone) distortion. If it doesn't fit, adjust by hand with two fingers.",
+    "Align mode (paid)"
+   ],
+   [
+    "I want to record how a place changes over time",
+    "Align and overlay photos taken from the same spot on different days — construction progress, a garden through the seasons — and check what changed.",
+    "Align + Blend"
+   ],
+   [
+    "I want to know if two images are truly identical",
+    "When two images match pixel for pixel, the app shows that they are identical — even differences you can't see become clear.",
+    "Identical-image check"
+   ],
+   [
+    "I want to overlay two images semi-transparently",
+    "Overlay the two images while adjusting the opacity to check differences in shape and position.",
+    "Blend mode"
+   ],
+   [
+    "I want to compare details by dragging a divider",
+    "Split the view with a slider and move the boundary to compare. Horizontal and vertical brightness (luminance) profiles are shown as graphs.",
+    "Wipe mode (paid)"
+   ],
+   [
+    "I want to compare without uploading photos",
+    "Images are processed on your device and never sent to our servers or anyone else's.",
+    "On-device processing"
+   ],
+   [
+    "I only want to pay for the features I need",
+    "Align, Diff and Wipe can each be bought as a one-time purchase, and watching a video ad lets you try a mode once.",
+    "Per-feature lifetime purchases"
+   ]
+  ],
+  "faq": [
+   [
+    "How is this different from Similar Photo Search?",
+    "Similar Photo Search finds and tidies up similar photos across your library. Image Compare examines two photos you choose in detail to show where and how much they differ."
+   ],
+   [
+    "Where do I pick the two images from?",
+    "From the photo library of the Photos app on your iPhone or iPad. For iCloud Photos, the app may connect to Apple's iCloud to load the original images."
+   ],
+   [
+    "Can I compare photos taken from slightly different positions?",
+    "Yes. Align mode automatically corrects shift, rotation and scale, and can also correct perspective (keystone) distortion. If automatic alignment doesn't fit, adjust by hand with two fingers."
+   ],
+   [
+    "Are my photos sent to a server?",
+    "No. Images are processed on your device and never sent to our servers or any third party's. The free version uses the network to show ads."
+   ],
+   [
+    "Can I save or share the comparison?",
+    "Yes. You can capture the comparison screen as an image and save it or send it to other apps from the share sheet."
+   ],
+   [
+    "How much can I do for free?",
+    "Blend and A/B are free (with ads). Align, Diff and Wipe are paid features, and watching a video ad lets you use that mode once. A monthly or yearly plan or the all-features lifetime purchase unlocks every mode, and each feature can also be bought separately."
+   ],
+   [
+    "Which devices are supported?",
+    "iPhone with iOS 18.0 or later and iPad with iPadOS 18.0 or later."
+   ]
+  ]
+ }
+}

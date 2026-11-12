@@ -1,0 +1,13 @@
+# 生成物（GitHub Actions がビルドして公開するので、リポジトリには素材だけ置く）
+/public/*
+!/public/assets/
+!/public/favicon.png
+!/public/apple-touch-icon.png
+
+# その他
+node_modules/
+__pycache__/
+.DS_Store
+.wrangler/
+_*.tgz
+_*.css

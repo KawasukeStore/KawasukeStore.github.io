@@ -1,0 +1,803 @@
+{
+ "ja": {
+  "T": {
+   "summary_title": "このアプリの良さをひとことで言うと",
+   "needs_title": "こんなお悩みにおすすめ",
+   "faq_title": "よくある質問"
+  },
+  "summary": "「座標と色」は、画像の上に2点を置くだけで、**それぞれの座標（ピクセル）と、2点間のX差・Y差・直線距離を自動で計算**するiPhone・iPadアプリです。点の位置の**色をHEX・RGBで読み取り**、拡大鏡で1ピクセル単位に合わせたり、座標や距離を数値で指定して点を置いたりもできます。Proでは、**2枚の画像を同じ座標で見比べ**たり、**計測した画像と座標を保存して読み出し**たりできます。基本の計測は枚数の制限なく無料で、画像の処理は端末内で行います。",
+  "tags": [
+   "画像上の座標を測る",
+   "2点間の距離",
+   "色コード（HEX・RGB）",
+   "2枚の画像を同じ座標で比較",
+   "端末内で処理",
+   "iPhone / iPad"
+  ],
+  "needs": [
+   [
+    "画像の中の位置を、ピクセル単位で知りたい",
+    "画像をタップして点を置くと、その位置の座標がすぐに表示されます。拡大鏡で1ピクセル単位まで合わせられます。",
+    "座標表示・拡大鏡"
+   ],
+   [
+    "2点の間の距離を測りたい",
+    "X差・Y差・直線距離を自動で計算。点を動かすと、数値もその場で更新されます。",
+    "X差・Y差・距離の計算"
+   ],
+   [
+    "スクリーンショットで、余白や間隔を確かめたい",
+    "アプリやWebのスクリーンショットに点を置いて、要素の位置や間隔をピクセルで確認できます。",
+    "2点の差の計測"
+   ],
+   [
+    "画像の中の色コードを調べたい",
+    "点を置いた位置の色をHEX・RGBで表示。長押しでコピーして、そのまま貼り付けられます。",
+    "色の読み取り"
+   ],
+   [
+    "決めた座標に、点をぴたりと置きたい",
+    "X・Yを数値で入力したり、スライダーで少しずつ動かしたりして、狙った座標に確実に点を置けます。",
+    "座標を指定して配置"
+   ],
+   [
+    "ある点から、決まった間隔の位置を知りたい",
+    "ΔX・ΔY・直線距離を数値で指定して、もう一方の点を動かせます。指定した半径の円も描けます。",
+    "差分・距離の指定・半径円"
+   ],
+   [
+    "撮り直した写真で、同じ位置がどう変わったか比べたい",
+    "1枚目のA・B点を残したまま2枚目を開き、同じ座標にC・D点を置いて、位置や色の違いを確かめられます。",
+    "2枚の画像を比較（Pro）"
+   ],
+   [
+    "同じ箇所を、何度も測り直したい",
+    "計測した画像と座標を最大10件まで保存。読み出した点はロックされるので、同じ基準ですぐ測り直せます。",
+    "画像と座標の保存・読み出し（Pro）"
+   ],
+   [
+    "測った結果を、画像ごと人に送りたい",
+    "十字線や円を描き込んだ画像や、座標パネルを含めた画像を書き出して共有できます。",
+    "書き出して共有"
+   ]
+  ],
+  "faq": [
+   [
+    "どんな画像を測れますか？",
+    "iPhone・iPadの「写真」アプリに入っている画像（スクリーンショットを含む）を測れます。"
+   ],
+   [
+    "実際の長さ（cmやmm）を測れますか？",
+    "いいえ。このアプリが測るのは、画像の上での座標と距離（ピクセル）です。実物の長さに換算する機能はありません。"
+   ],
+   [
+    "無料でどこまで使えますか？",
+    "タップでの計測、座標・色の読み取り、X差・Y差・距離、拡大鏡、原点位置の変更、相対位置表示、半径円、共有は、回数の制限なく無料で使えます（広告あり）。Pro（月額・年額・買い切り）では、2枚の画像の比較と、画像と座標の保存・読み出し（最大10件）が使え、写真一覧の広告が表示されなくなります。2枚の画像の比較は、動画広告を見ると3枚分お試しできます。"
+   ],
+   [
+    "画像は外部のサーバーに送信されますか？",
+    "いいえ。画像の処理は端末内で行い、画像を開発者や第三者のサーバーへ送ることはありません。iCloud写真の場合は元の画像を読み込むためにAppleのiCloudと通信することがあり、無料版では広告の表示に通信を使います。"
+   ],
+   [
+    "対応している機種は？",
+    "iOS 18.4以降のiPhoneと、iPadOS 18.4以降のiPadに対応しています。"
+   ],
+   [
+    "「画像比較」とは何が違いますか？",
+    "座標と色は、画像の上で位置・距離・色を数値で測るアプリです。2枚を開いて同じ座標で比べることもできます（Pro）。画像比較は、2枚の画像を重ねたり差分を色づけしたりして、見た目の違いを確かめるアプリです。"
+   ]
+  ]
+ },
+ "en": {
+  "T": {
+   "summary_title": "What makes this app great, in a nutshell",
+   "needs_title": "Made for moments like these",
+   "faq_title": "Frequently asked questions"
+  },
+  "summary": "Coord & Color is an iPhone and iPad app that **shows the pixel coordinates of two points you place on an image and automatically calculates the X difference, Y difference and straight-line distance between them.** It **reads the color at each point as HEX and RGB**, lets you align points pixel by pixel with a magnifier, and can place points from coordinates or distances you type in. With Pro, you can **compare two images at the same coordinates** and **save measured images with their points to load later**. Core measuring is free with no image limit, and images are processed on your device.",
+  "tags": [
+   "Pixel coordinates on images",
+   "Distance between two points",
+   "Color codes (HEX / RGB)",
+   "Compare two images at the same coordinates",
+   "On-device processing",
+   "iPhone / iPad"
+  ],
+  "needs": [
+   [
+    "I want to know a position in an image, down to the pixel",
+    "Tap the image to place a point and its coordinates appear instantly. A magnifier lets you align it pixel by pixel.",
+    "Coordinates and magnifier"
+   ],
+   [
+    "I want to measure the distance between two points",
+    "The X difference, Y difference and straight-line distance are calculated automatically and update as you move the points.",
+    "X/Y difference and distance"
+   ],
+   [
+    "I want to check margins and spacing in a screenshot",
+    "Place points on an app or web screenshot to check the position and spacing of elements in pixels.",
+    "Two-point measurement"
+   ],
+   [
+    "I want to find a color code in an image",
+    "The color at each point is shown as HEX and RGB. Long-press to copy and paste it anywhere.",
+    "Color picking"
+   ],
+   [
+    "I want to put a point at exact coordinates",
+    "Type X and Y or nudge them with sliders to place a point exactly where you want it.",
+    "Plot Coordinates"
+   ],
+   [
+    "I want to find a position at a set offset from a point",
+    "Enter ΔX, ΔY or a straight-line distance to move the other point. You can also draw a circle of a given radius.",
+    "Delta & distance settings, radius circles"
+   ],
+   [
+    "I want to see how the same spot changed in a retake",
+    "Keep points A and B from the first image, open a second one and place C and D at the same coordinates to compare positions and colors.",
+    "Compare two images (Pro)"
+   ],
+   [
+    "I want to re-measure the same spot again and again",
+    "Save up to 10 measured images with their points. Loaded points are locked, so you can re-measure with the same reference right away.",
+    "Save & load images and points (Pro)"
+   ],
+   [
+    "I want to send my measurements along with the image",
+    "Export the image with crosshairs and circles drawn in, or include the coordinate panel, and share it.",
+    "Export and share"
+   ]
+  ],
+  "faq": [
+   [
+    "What images can I measure?",
+    "Any image in the Photos app on your iPhone or iPad, including screenshots."
+   ],
+   [
+    "Can it measure real-world lengths in cm or mm?",
+    "No. The app measures coordinates and distances on the image itself, in pixels. There is no conversion to physical lengths."
+   ],
+   [
+    "How much can I do for free?",
+    "Tap-to-measure, coordinates, color picking, X/Y difference and distance, the magnifier, origin position, relative positions, radius circles and sharing are free with no usage limit (with ads). Pro (monthly, yearly or lifetime) adds two-image comparison and saving/loading images with their points (up to 10), and removes the ad from the photo list. You can try two-image comparison on 3 photos by watching a video ad."
+   ],
+   [
+    "Are my images sent to a server?",
+    "No. Images are processed on your device and never sent to our servers or any third party's. For iCloud Photos the app may connect to Apple's iCloud to load the original images, and the free version uses the network to show ads."
+   ],
+   [
+    "Which devices are supported?",
+    "iPhone with iOS 18.4 or later and iPad with iPadOS 18.4 or later."
+   ],
+   [
+    "How is this different from Image Compare?",
+    "Coord & Color measures positions, distances and colors on images as numbers, and can open two images to compare them at the same coordinates (Pro). Image Compare overlays two images or colors their differences to check how they look different."
+   ]
+  ]
+ },
+ "es": {
+  "T": {
+   "summary_title": "Lo mejor de esta app, en pocas palabras",
+   "needs_title": "Ideal para estas situaciones",
+   "faq_title": "Preguntas frecuentes"
+  },
+  "summary": "Coord y Color es una app para iPhone y iPad que **muestra las coordenadas en píxeles de dos puntos que colocas en una imagen y calcula automáticamente la diferencia en X, en Y y la distancia en línea recta entre ellos.** **Lee el color de cada punto en HEX y RGB**, permite ajustar los puntos píxel a píxel con una lupa y colocarlos a partir de coordenadas o distancias que escribas. Con Pro, puedes **comparar dos imágenes en las mismas coordenadas** y **guardar imágenes medidas con sus puntos para cargarlas más tarde**. La medición básica es gratis y sin límite de imágenes, y las imágenes se procesan en el dispositivo.",
+  "tags": [
+   "Coordenadas en píxeles",
+   "Distancia entre dos puntos",
+   "Códigos de color (HEX / RGB)",
+   "Comparar dos imágenes en las mismas coordenadas",
+   "Procesamiento en el dispositivo",
+   "iPhone / iPad"
+  ],
+  "needs": [
+   [
+    "Quiero saber una posición de la imagen al píxel",
+    "Toca la imagen para colocar un punto y verás sus coordenadas al instante. Con la lupa lo ajustas píxel a píxel.",
+    "Coordenadas y lupa"
+   ],
+   [
+    "Quiero medir la distancia entre dos puntos",
+    "La diferencia en X, en Y y la distancia en línea recta se calculan solas y se actualizan al mover los puntos.",
+    "Diferencia X/Y y distancia"
+   ],
+   [
+    "Quiero comprobar márgenes y espacios en una captura",
+    "Coloca puntos en una captura de una app o una web para comprobar en píxeles la posición y la separación de los elementos.",
+    "Medición entre dos puntos"
+   ],
+   [
+    "Quiero saber el código de un color de la imagen",
+    "El color de cada punto se muestra en HEX y RGB. Mantén pulsado para copiarlo y pegarlo donde quieras.",
+    "Lectura de color"
+   ],
+   [
+    "Quiero poner un punto en unas coordenadas exactas",
+    "Escribe X e Y o muévelo poco a poco con los deslizadores para colocarlo justo donde quieres.",
+    "Marcar por coordenadas"
+   ],
+   [
+    "Quiero saber qué hay a una distancia fija de un punto",
+    "Indica ΔX, ΔY o la distancia en línea recta para mover el otro punto. También puedes dibujar un círculo con el radio que quieras.",
+    "Diferencia y distancia, círculos de radio"
+   ],
+   [
+    "Quiero ver cómo cambió el mismo sitio en una foto repetida",
+    "Conserva A y B de la primera imagen, abre la segunda y coloca C y D en las mismas coordenadas para comparar posición y color.",
+    "Comparar dos imágenes (Pro)"
+   ],
+   [
+    "Quiero volver a medir el mismo sitio muchas veces",
+    "Guarda hasta 10 imágenes medidas con sus puntos. Los puntos cargados quedan bloqueados para medir de nuevo con la misma referencia.",
+    "Guardar y cargar imagen y puntos (Pro)"
+   ],
+   [
+    "Quiero enviar mis medidas junto con la imagen",
+    "Exporta la imagen con las cruces y los círculos dibujados, o con el panel de coordenadas, y compártela.",
+    "Exportar y compartir"
+   ]
+  ],
+  "faq": [
+   [
+    "¿Qué imágenes puedo medir?",
+    "Cualquier imagen de la app Fotos de tu iPhone o iPad, incluidas las capturas de pantalla."
+   ],
+   [
+    "¿Mide longitudes reales en cm o mm?",
+    "No. La app mide coordenadas y distancias sobre la propia imagen, en píxeles. No convierte a longitudes físicas."
+   ],
+   [
+    "¿Qué puedo hacer gratis?",
+    "La medición con un toque, las coordenadas, la lectura de color, la diferencia en X/Y y la distancia, la lupa, el cambio de origen, la posición relativa, los círculos de radio y compartir son gratis y sin límite de uso (con anuncios). Pro (mensual, anual o compra única) añade la comparación de dos imágenes y guardar y cargar imágenes con sus puntos (hasta 10), y quita el anuncio de la lista de fotos. Puedes probar la comparación de dos imágenes con 3 fotos viendo un anuncio en vídeo."
+   ],
+   [
+    "¿Se envían mis imágenes a algún servidor?",
+    "No. Las imágenes se procesan en el dispositivo y nunca se envían a nuestros servidores ni a los de terceros. Con Fotos de iCloud, la app puede conectarse a iCloud de Apple para cargar las imágenes originales, y la versión gratuita usa la red para mostrar anuncios."
+   ],
+   [
+    "¿Qué dispositivos son compatibles?",
+    "iPhone con iOS 18.4 o posterior e iPad con iPadOS 18.4 o posterior."
+   ],
+   [
+    "¿En qué se diferencia de Image Compare?",
+    "Coord y Color mide en números posiciones, distancias y colores en las imágenes, y puede abrir dos imágenes para compararlas en las mismas coordenadas (Pro). Image Compare superpone dos imágenes o colorea sus diferencias para ver en qué se distinguen."
+   ]
+  ]
+ },
+ "de": {
+  "T": {
+   "summary_title": "Was diese App ausmacht – kurz gesagt",
+   "needs_title": "Ideal für diese Situationen",
+   "faq_title": "Häufige Fragen"
+  },
+  "summary": "Koord&Farbe ist eine App für iPhone und iPad, die **die Pixelkoordinaten zweier Punkte auf einem Bild anzeigt und automatisch X-Differenz, Y-Differenz und Luftlinienabstand zwischen ihnen berechnet.** Sie **liest die Farbe an jedem Punkt als HEX und RGB aus**, lässt dich Punkte mit der Lupe pixelgenau ausrichten und Punkte anhand eingegebener Koordinaten oder Abstände setzen. Mit Pro kannst du **zwei Bilder an denselben Koordinaten vergleichen** und **gemessene Bilder mit ihren Punkten speichern und später laden**. Die Grundmessung ist kostenlos ohne Bildlimit, und die Bilder werden auf dem Gerät verarbeitet.",
+  "tags": [
+   "Pixelkoordinaten auf Bildern",
+   "Abstand zwischen zwei Punkten",
+   "Farbcodes (HEX / RGB)",
+   "Zwei Bilder an gleichen Koordinaten vergleichen",
+   "Verarbeitung auf dem Gerät",
+   "iPhone / iPad"
+  ],
+  "needs": [
+   [
+    "Ich will eine Position im Bild pixelgenau kennen",
+    "Tippe auf das Bild, um einen Punkt zu setzen – die Koordinaten erscheinen sofort. Mit der Lupe richtest du ihn pixelgenau aus.",
+    "Koordinaten und Lupe"
+   ],
+   [
+    "Ich will den Abstand zwischen zwei Punkten messen",
+    "X-Differenz, Y-Differenz und Luftlinienabstand werden automatisch berechnet und aktualisiert, wenn du die Punkte verschiebst.",
+    "X/Y-Differenz und Abstand"
+   ],
+   [
+    "Ich will Ränder und Abstände in einem Screenshot prüfen",
+    "Setze Punkte auf einen App- oder Web-Screenshot, um Position und Abstand von Elementen in Pixeln zu prüfen.",
+    "Zwei-Punkt-Messung"
+   ],
+   [
+    "Ich will einen Farbcode im Bild herausfinden",
+    "Die Farbe an jedem Punkt wird als HEX und RGB angezeigt. Lange drücken zum Kopieren und überall einfügen.",
+    "Farbe auslesen"
+   ],
+   [
+    "Ich will einen Punkt an exakte Koordinaten setzen",
+    "Gib X und Y ein oder verschiebe ihn schrittweise mit Schiebereglern, um ihn genau dorthin zu setzen.",
+    "Koordinaten eintragen"
+   ],
+   [
+    "Ich will eine Position in festem Abstand zu einem Punkt finden",
+    "Gib ΔX, ΔY oder einen Luftlinienabstand ein, um den anderen Punkt zu verschieben. Du kannst auch einen Kreis mit beliebigem Radius zeichnen.",
+    "Differenz und Abstand, Radiuskreise"
+   ],
+   [
+    "Ich will sehen, wie sich dieselbe Stelle bei einer neuen Aufnahme verändert hat",
+    "Behalte A und B des ersten Bildes, öffne ein zweites und setze C und D an dieselben Koordinaten, um Position und Farbe zu vergleichen.",
+    "Zwei Bilder vergleichen (Pro)"
+   ],
+   [
+    "Ich will dieselbe Stelle immer wieder neu messen",
+    "Speichere bis zu 10 gemessene Bilder mit ihren Punkten. Geladene Punkte sind gesperrt, sodass du sofort mit derselben Referenz neu misst.",
+    "Bild und Punkte speichern und laden (Pro)"
+   ],
+   [
+    "Ich will meine Messung zusammen mit dem Bild verschicken",
+    "Exportiere das Bild mit eingezeichneten Fadenkreuzen und Kreisen oder mit dem Koordinatenfeld und teile es.",
+    "Exportieren und teilen"
+   ]
+  ],
+  "faq": [
+   [
+    "Welche Bilder kann ich messen?",
+    "Alle Bilder in der Fotos-App deines iPhone oder iPad, auch Bildschirmfotos."
+   ],
+   [
+    "Kann die App reale Längen in cm oder mm messen?",
+    "Nein. Die App misst Koordinaten und Abstände auf dem Bild selbst, in Pixeln. Eine Umrechnung in reale Längen gibt es nicht."
+   ],
+   [
+    "Was kann ich kostenlos nutzen?",
+    "Messen per Tippen, Koordinaten, Farbauslesen, X/Y-Differenz und Abstand, die Lupe, die Ursprungsposition, die relative Position, Radiuskreise und Teilen sind kostenlos und ohne Nutzungslimit (mit Werbung). Pro (monatlich, jährlich oder Einmalkauf) ergänzt den Vergleich zweier Bilder sowie das Speichern und Laden von Bildern mit ihren Punkten (bis zu 10) und entfernt die Werbung aus der Fotoliste. Den Vergleich zweier Bilder kannst du mit einem Videowerbespot an 3 Fotos ausprobieren."
+   ],
+   [
+    "Werden meine Bilder an einen Server gesendet?",
+    "Nein. Bilder werden auf dem Gerät verarbeitet und nie an unsere oder fremde Server gesendet. Bei iCloud-Fotos kann die App sich mit Apples iCloud verbinden, um Originalbilder zu laden, und die kostenlose Version nutzt das Netzwerk für Werbung."
+   ],
+   [
+    "Welche Geräte werden unterstützt?",
+    "iPhone mit iOS 18.4 oder neuer und iPad mit iPadOS 18.4 oder neuer."
+   ],
+   [
+    "Was ist der Unterschied zu Image Compare?",
+    "Koord&Farbe misst Positionen, Abstände und Farben auf Bildern als Zahlen und kann zwei Bilder öffnen, um sie an denselben Koordinaten zu vergleichen (Pro). Image Compare legt zwei Bilder übereinander oder färbt ihre Unterschiede ein, um zu sehen, wie sie sich optisch unterscheiden."
+   ]
+  ]
+ },
+ "fr": {
+  "T": {
+   "summary_title": "Ce qui rend cette app utile, en bref",
+   "needs_title": "Idéale dans ces situations",
+   "faq_title": "Questions fréquentes"
+  },
+  "summary": "Coord&Coul est une app pour iPhone et iPad qui **affiche les coordonnées en pixels de deux points placés sur une image et calcule automatiquement l'écart en X, l'écart en Y et la distance en ligne droite entre eux.** Elle **lit la couleur de chaque point en HEX et RVB**, permet d'ajuster les points au pixel près avec une loupe et de les placer à partir de coordonnées ou de distances saisies. Avec Pro, vous pouvez **comparer deux images aux mêmes coordonnées** et **enregistrer des images mesurées avec leurs points pour les recharger plus tard**. La mesure de base est gratuite et sans limite d'images, et les images sont traitées sur l'appareil.",
+  "tags": [
+   "Coordonnées en pixels",
+   "Distance entre deux points",
+   "Codes couleur (HEX / RVB)",
+   "Comparer deux images aux mêmes coordonnées",
+   "Traitement sur l'appareil",
+   "iPhone / iPad"
+  ],
+  "needs": [
+   [
+    "Je veux connaître une position dans l'image au pixel près",
+    "Touchez l'image pour placer un point : ses coordonnées s'affichent aussitôt. La loupe permet de l'ajuster pixel par pixel.",
+    "Coordonnées et loupe"
+   ],
+   [
+    "Je veux mesurer la distance entre deux points",
+    "L'écart en X, en Y et la distance en ligne droite sont calculés automatiquement et se mettent à jour quand vous déplacez les points.",
+    "Écart X/Y et distance"
+   ],
+   [
+    "Je veux vérifier marges et espacements sur une capture d'écran",
+    "Placez des points sur une capture d'app ou de site pour vérifier en pixels la position et l'espacement des éléments.",
+    "Mesure entre deux points"
+   ],
+   [
+    "Je veux trouver le code d'une couleur de l'image",
+    "La couleur de chaque point s'affiche en HEX et RVB. Appui long pour la copier et la coller où vous voulez.",
+    "Lecture des couleurs"
+   ],
+   [
+    "Je veux placer un point à des coordonnées exactes",
+    "Saisissez X et Y ou déplacez-le petit à petit avec les curseurs pour le placer exactement où vous voulez.",
+    "Placer par coordonnées"
+   ],
+   [
+    "Je veux trouver une position à un écart précis d'un point",
+    "Indiquez ΔX, ΔY ou une distance en ligne droite pour déplacer l'autre point. Vous pouvez aussi tracer un cercle du rayon voulu.",
+    "Écart et distance, cercles de rayon"
+   ],
+   [
+    "Je veux voir comment le même endroit a changé sur une photo reprise",
+    "Gardez A et B de la première image, ouvrez-en une deuxième et placez C et D aux mêmes coordonnées pour comparer position et couleur.",
+    "Comparer deux images (Pro)"
+   ],
+   [
+    "Je veux remesurer le même endroit encore et encore",
+    "Enregistrez jusqu'à 10 images mesurées avec leurs points. Les points rechargés sont verrouillés pour remesurer aussitôt avec la même référence.",
+    "Enregistrer et charger image et points (Pro)"
+   ],
+   [
+    "Je veux envoyer mes mesures avec l'image",
+    "Exportez l'image avec réticules et cercles, ou avec le panneau des coordonnées, et partagez-la.",
+    "Exporter et partager"
+   ]
+  ],
+  "faq": [
+   [
+    "Quelles images puis-je mesurer ?",
+    "Toutes les images de l'app Photos de votre iPhone ou iPad, captures d'écran comprises."
+   ],
+   [
+    "Peut-elle mesurer des longueurs réelles en cm ou mm ?",
+    "Non. L'app mesure des coordonnées et des distances sur l'image elle-même, en pixels. Il n'y a pas de conversion en longueurs physiques."
+   ],
+   [
+    "Que puis-je faire gratuitement ?",
+    "La mesure au toucher, les coordonnées, la lecture des couleurs, l'écart X/Y et la distance, la loupe, la position de l'origine, la position relative, les cercles de rayon et le partage sont gratuits et sans limite d'utilisation (avec publicités). Pro (mensuel, annuel ou achat unique) ajoute la comparaison de deux images et l'enregistrement/chargement d'images avec leurs points (jusqu'à 10), et supprime la publicité de la liste des photos. Vous pouvez essayer la comparaison de deux images sur 3 photos en regardant une vidéo publicitaire."
+   ],
+   [
+    "Mes images sont-elles envoyées à un serveur ?",
+    "Non. Les images sont traitées sur l'appareil et ne sont jamais envoyées à nos serveurs ni à ceux de tiers. Avec Photos iCloud, l'app peut se connecter à iCloud d'Apple pour charger les originaux, et la version gratuite utilise le réseau pour afficher des publicités."
+   ],
+   [
+    "Quels appareils sont compatibles ?",
+    "iPhone sous iOS 18.4 ou ultérieur et iPad sous iPadOS 18.4 ou ultérieur."
+   ],
+   [
+    "Quelle différence avec Image Compare ?",
+    "Coord&Coul mesure en chiffres les positions, distances et couleurs sur les images, et peut ouvrir deux images pour les comparer aux mêmes coordonnées (Pro). Image Compare superpose deux images ou colore leurs différences pour voir en quoi elles diffèrent visuellement."
+   ]
+  ]
+ },
+ "pt": {
+  "T": {
+   "summary_title": "O que torna este app especial, em poucas palavras",
+   "needs_title": "Ideal para estas situações",
+   "faq_title": "Perguntas frequentes"
+  },
+  "summary": "Coord e Cor é um app para iPhone e iPad que **mostra as coordenadas em pixels de dois pontos que você posiciona em uma imagem e calcula automaticamente a diferença em X, em Y e a distância em linha reta entre eles.** Ele **lê a cor de cada ponto em HEX e RGB**, permite ajustar os pontos pixel a pixel com uma lupa e posicioná-los a partir de coordenadas ou distâncias digitadas. Com o Pro, você pode **comparar duas imagens nas mesmas coordenadas** e **salvar imagens medidas com seus pontos para carregá-las depois**. A medição básica é grátis e sem limite de imagens, e as imagens são processadas no dispositivo.",
+  "tags": [
+   "Coordenadas em pixels",
+   "Distância entre dois pontos",
+   "Códigos de cor (HEX / RGB)",
+   "Comparar duas imagens nas mesmas coordenadas",
+   "Processamento no dispositivo",
+   "iPhone / iPad"
+  ],
+  "needs": [
+   [
+    "Quero saber uma posição na imagem com precisão de pixel",
+    "Toque na imagem para posicionar um ponto e veja as coordenadas na hora. Com a lupa, você ajusta pixel a pixel.",
+    "Coordenadas e lupa"
+   ],
+   [
+    "Quero medir a distância entre dois pontos",
+    "A diferença em X, em Y e a distância em linha reta são calculadas sozinhas e atualizadas quando você move os pontos.",
+    "Diferença X/Y e distância"
+   ],
+   [
+    "Quero conferir margens e espaçamentos em uma captura de tela",
+    "Posicione pontos em uma captura de app ou site para conferir em pixels a posição e o espaçamento dos elementos.",
+    "Medição entre dois pontos"
+   ],
+   [
+    "Quero descobrir o código de uma cor da imagem",
+    "A cor de cada ponto aparece em HEX e RGB. Toque e segure para copiar e colar onde quiser.",
+    "Leitura de cor"
+   ],
+   [
+    "Quero colocar um ponto em coordenadas exatas",
+    "Digite X e Y ou mova-o aos poucos com os controles deslizantes para colocá-lo exatamente onde quer.",
+    "Marcar por coordenadas"
+   ],
+   [
+    "Quero achar uma posição a uma distância fixa de um ponto",
+    "Defina ΔX, ΔY ou a distância em linha reta para mover o outro ponto. Você também pode desenhar um círculo com o raio que quiser.",
+    "Diferença e distância, círculos de raio"
+   ],
+   [
+    "Quero ver como o mesmo lugar mudou em uma foto refeita",
+    "Mantenha A e B da primeira imagem, abra a segunda e coloque C e D nas mesmas coordenadas para comparar posição e cor.",
+    "Comparar duas imagens (Pro)"
+   ],
+   [
+    "Quero medir o mesmo lugar de novo várias vezes",
+    "Salve até 10 imagens medidas com seus pontos. Os pontos carregados ficam bloqueados para medir de novo com a mesma referência.",
+    "Salvar e carregar imagem e pontos (Pro)"
+   ],
+   [
+    "Quero enviar minhas medições junto com a imagem",
+    "Exporte a imagem com miras e círculos desenhados, ou com o painel de coordenadas, e compartilhe.",
+    "Exportar e compartilhar"
+   ]
+  ],
+  "faq": [
+   [
+    "Que imagens posso medir?",
+    "Qualquer imagem do app Fotos do seu iPhone ou iPad, incluindo capturas de tela."
+   ],
+   [
+    "Ele mede comprimentos reais em cm ou mm?",
+    "Não. O app mede coordenadas e distâncias na própria imagem, em pixels. Não há conversão para comprimentos físicos."
+   ],
+   [
+    "O que posso fazer de graça?",
+    "Medição com um toque, coordenadas, leitura de cor, diferença X/Y e distância, lupa, posição de origem, posição relativa, círculos de raio e compartilhamento são grátis e sem limite de uso (com anúncios). O Pro (mensal, anual ou compra única) adiciona a comparação de duas imagens e salvar/carregar imagens com seus pontos (até 10), e remove o anúncio da lista de fotos. Você pode testar a comparação de duas imagens em 3 fotos assistindo a um anúncio em vídeo."
+   ],
+   [
+    "Minhas imagens são enviadas para algum servidor?",
+    "Não. As imagens são processadas no dispositivo e nunca são enviadas para nossos servidores nem para os de terceiros. Com Fotos do iCloud, o app pode se conectar ao iCloud da Apple para carregar as imagens originais, e a versão gratuita usa a rede para exibir anúncios."
+   ],
+   [
+    "Quais dispositivos são compatíveis?",
+    "iPhone com iOS 18.4 ou posterior e iPad com iPadOS 18.4 ou posterior."
+   ],
+   [
+    "Qual a diferença para o Image Compare?",
+    "O Coord e Cor mede em números posições, distâncias e cores nas imagens e pode abrir duas imagens para compará-las nas mesmas coordenadas (Pro). O Image Compare sobrepõe duas imagens ou colore as diferenças para mostrar como elas diferem visualmente."
+   ]
+  ]
+ },
+ "ko": {
+  "T": {
+   "summary_title": "이 앱의 장점을 한마디로",
+   "needs_title": "이런 고민이 있다면 추천해요",
+   "faq_title": "자주 묻는 질문"
+  },
+  "summary": "좌표와 색는 **이미지 위에 두 점을 놓기만 하면 각 점의 좌표(픽셀)와 두 점 사이의 X 차이·Y 차이·직선 거리를 자동으로 계산**하는 iPhone·iPad 앱입니다. 점 위치의 **색상을 HEX·RGB로 읽고**, 돋보기로 픽셀 단위까지 맞추거나 좌표와 거리를 숫자로 지정해 점을 놓을 수도 있습니다. Pro에서는 **두 이미지를 같은 좌표에서 비교**하거나 **측정한 이미지와 좌표를 저장해 불러올** 수 있습니다. 기본 측정은 이미지 수 제한 없이 무료이며, 이미지 처리는 기기 안에서 이루어집니다.",
+  "tags": [
+   "이미지 위 좌표 측정",
+   "두 점 사이의 거리",
+   "색상 코드(HEX·RGB)",
+   "두 이미지를 같은 좌표에서 비교",
+   "기기 내 처리",
+   "iPhone / iPad"
+  ],
+  "needs": [
+   [
+    "이미지 속 위치를 픽셀 단위로 알고 싶어요",
+    "이미지를 탭해 점을 놓으면 그 위치의 좌표가 바로 표시됩니다. 돋보기로 픽셀 단위까지 맞출 수 있습니다.",
+    "좌표 표시·돋보기"
+   ],
+   [
+    "두 점 사이의 거리를 재고 싶어요",
+    "X 차이·Y 차이·직선 거리를 자동으로 계산하고, 점을 움직이면 수치도 바로 바뀝니다.",
+    "X·Y 차이와 거리 계산"
+   ],
+   [
+    "스크린샷에서 여백이나 간격을 확인하고 싶어요",
+    "앱이나 웹의 스크린샷에 점을 놓아 요소의 위치와 간격을 픽셀로 확인할 수 있습니다.",
+    "두 점 차이 측정"
+   ],
+   [
+    "이미지 속 색상 코드를 알고 싶어요",
+    "점을 놓은 위치의 색을 HEX·RGB로 표시합니다. 길게 눌러 복사해 바로 붙여 넣을 수 있습니다.",
+    "색상 읽기"
+   ],
+   [
+    "정해 둔 좌표에 점을 정확히 놓고 싶어요",
+    "X·Y를 숫자로 입력하거나 슬라이더로 조금씩 움직여 원하는 좌표에 확실하게 점을 놓을 수 있습니다.",
+    "좌표로 배치"
+   ],
+   [
+    "어떤 점에서 정해진 간격만큼 떨어진 위치를 알고 싶어요",
+    "ΔX·ΔY·직선 거리를 숫자로 지정해 다른 점을 움직일 수 있습니다. 지정한 반지름의 원도 그릴 수 있습니다.",
+    "차이·거리 지정, 반지름 원"
+   ],
+   [
+    "다시 찍은 사진에서 같은 위치가 어떻게 달라졌는지 비교하고 싶어요",
+    "첫 번째 이미지의 A·B점을 남긴 채 두 번째 이미지를 열고, 같은 좌표에 C·D점을 놓아 위치와 색의 차이를 확인할 수 있습니다.",
+    "두 이미지 비교(Pro)"
+   ],
+   [
+    "같은 곳을 여러 번 다시 측정하고 싶어요",
+    "측정한 이미지와 좌표를 최대 10개까지 저장합니다. 불러온 점은 잠기므로 같은 기준으로 바로 다시 측정할 수 있습니다.",
+    "이미지와 점 저장·불러오기(Pro)"
+   ],
+   [
+    "측정 결과를 이미지째 다른 사람에게 보내고 싶어요",
+    "십자선이나 원이 그려진 이미지, 좌표 패널을 포함한 이미지를 내보내 공유할 수 있습니다.",
+    "내보내기·공유"
+   ]
+  ],
+  "faq": [
+   [
+    "어떤 이미지를 측정할 수 있나요?",
+    "iPhone·iPad의 '사진' 앱에 있는 이미지(스크린샷 포함)를 측정할 수 있습니다."
+   ],
+   [
+    "실제 길이(cm, mm)를 잴 수 있나요?",
+    "아니요. 이 앱이 재는 것은 이미지 위의 좌표와 거리(픽셀)입니다. 실제 길이로 환산하는 기능은 없습니다."
+   ],
+   [
+    "무료로 어디까지 쓸 수 있나요?",
+    "탭 측정, 좌표·색상 읽기, X·Y 차이와 거리, 돋보기, 원점 위치 변경, 상대 위치 표시, 반지름 원, 공유는 횟수 제한 없이 무료입니다(광고 포함). Pro(월간·연간·1회 구매)에서는 두 이미지 비교와 이미지·좌표 저장·불러오기(최대 10개)를 쓸 수 있고, 사진 목록의 광고가 사라집니다. 두 이미지 비교는 동영상 광고를 보면 사진 3장 분량을 체험할 수 있습니다."
+   ],
+   [
+    "이미지가 외부 서버로 전송되나요?",
+    "아니요. 이미지 처리는 기기 안에서 이루어지며, 이미지를 개발자나 제3자의 서버로 보내지 않습니다. iCloud 사진의 경우 원본 이미지를 불러오기 위해 Apple의 iCloud와 통신할 수 있으며, 무료 버전은 광고 표시에 네트워크를 사용합니다."
+   ],
+   [
+    "어떤 기기를 지원하나요?",
+    "iOS 18.4 이상의 iPhone과 iPadOS 18.4 이상의 iPad를 지원합니다."
+   ],
+   [
+    "Image Compare와 무엇이 다른가요?",
+    "좌표와 색는 이미지 위의 위치·거리·색상을 숫자로 재는 앱이며, 두 이미지를 열어 같은 좌표에서 비교할 수도 있습니다(Pro). Image Compare는 두 이미지를 겹치거나 차이를 색으로 표시해 겉보기 차이를 확인하는 앱입니다."
+   ]
+  ]
+ },
+ "zh-Hans": {
+  "T": {
+   "summary_title": "一句话说清这款 App 的好处",
+   "needs_title": "推荐给有这些烦恼的你",
+   "faq_title": "常见问题"
+  },
+  "summary": "坐标与颜色 是一款 iPhone、iPad App，**只需在图像上放置两个点，就能显示各点的坐标（像素），并自动计算两点间的 X 差值、Y 差值和直线距离。** 它还能**以 HEX、RGB 读取点所在位置的颜色**，用放大镜精确到像素，或通过输入坐标和距离来放置点。使用 Pro 可以**在相同坐标比较两张图像**，以及**保存测量过的图像和坐标并随时读取**。基本测量免费且不限图像数量，图像在设备上处理。",
+  "tags": [
+   "测量图像上的坐标",
+   "两点间距离",
+   "颜色代码（HEX・RGB）",
+   "在相同坐标比较两张图像",
+   "设备端处理",
+   "iPhone / iPad"
+  ],
+  "needs": [
+   [
+    "想以像素为单位知道图像中的位置",
+    "轻点图像放置点，就会立即显示该位置的坐标。用放大镜可精确到像素。",
+    "坐标显示・放大镜"
+   ],
+   [
+    "想测量两点之间的距离",
+    "自动计算 X 差值、Y 差值和直线距离，移动点时数值也会即时更新。",
+    "X/Y 差值与距离计算"
+   ],
+   [
+    "想在截屏上确认边距和间隔",
+    "在 App 或网页的截屏上放置点，以像素确认元素的位置和间隔。",
+    "两点差值测量"
+   ],
+   [
+    "想查出图像中的颜色代码",
+    "以 HEX、RGB 显示点所在位置的颜色。长按即可复制并直接粘贴。",
+    "读取颜色"
+   ],
+   [
+    "想把点准确放在指定坐标",
+    "用数字输入 X、Y，或用滑块一点点移动，就能把点准确放在目标坐标。",
+    "按坐标放置"
+   ],
+   [
+    "想知道距某个点固定间隔的位置",
+    "用数字指定 ΔX、ΔY 或直线距离即可移动另一个点，也能绘制指定半径的圆。",
+    "差值与距离设置・半径圆"
+   ],
+   [
+    "想比较重拍的照片中同一位置发生了什么变化",
+    "保留第一张图像的 A、B 点并打开第二张图像，在相同坐标放置 C、D 点，即可确认位置和颜色的差异。",
+    "比较两张图像（Pro）"
+   ],
+   [
+    "想反复重新测量同一位置",
+    "最多保存 10 组测量过的图像和坐标。读取的点会被锁定，可以立刻用同一基准重新测量。",
+    "保存与读取图像和点（Pro）"
+   ],
+   [
+    "想把测量结果连同图像发给别人",
+    "可以导出带十字线和圆的图像，或含坐标面板的图像并共享。",
+    "导出并共享"
+   ]
+  ],
+  "faq": [
+   [
+    "可以测量哪些图像？",
+    "可以测量 iPhone、iPad“照片”App 中的图像（包括截屏）。"
+   ],
+   [
+    "能测量实际长度（厘米、毫米）吗？",
+    "不能。本 App 测量的是图像上的坐标和距离（像素），没有换算为实际长度的功能。"
+   ],
+   [
+    "免费能用到什么程度？",
+    "轻点测量、坐标与颜色读取、X/Y 差值与距离、放大镜、更改原点位置、相对位置显示、半径圆和共享都可以不限次数免费使用（含广告）。Pro（每月、每年或一次性购买）可使用两张图像比较以及图像和坐标的保存与读取（最多 10 组），照片列表也不再显示广告。观看视频广告可试用两张图像比较 3 张照片。"
+   ],
+   [
+    "图像会被发送到外部服务器吗？",
+    "不会。图像在设备上处理，不会发送到开发者或第三方的服务器。使用 iCloud 照片时，App 可能会连接 Apple 的 iCloud 以读取原始图像；免费版会使用网络显示广告。"
+   ],
+   [
+    "支持哪些设备？",
+    "支持 iOS 18.4 或更高版本的 iPhone，以及 iPadOS 18.4 或更高版本的 iPad。"
+   ],
+   [
+    "和 Image Compare 有什么不同？",
+    "坐标与颜色 以数字测量图像上的位置、距离和颜色，也能打开两张图像在相同坐标比较（Pro）。Image Compare 则通过叠加两张图像或为差异着色，确认外观上的不同。"
+   ]
+  ]
+ },
+ "zh-Hant": {
+  "T": {
+   "summary_title": "一句話說清這款 App 的好處",
+   "needs_title": "推薦給有這些煩惱的你",
+   "faq_title": "常見問題"
+  },
+  "summary": "坐標與顏色 是一款 iPhone、iPad App，**只要在影像上放置兩個點，就能顯示各點的座標（像素），並自動計算兩點間的 X 差值、Y 差值和直線距離。** 它還能**以 HEX、RGB 讀取點所在位置的顏色**，用放大鏡精確到像素，或透過輸入座標和距離來放置點。使用 Pro 可以**在相同座標比較兩張影像**，以及**儲存測量過的影像和座標並隨時讀取**。基本測量免費且不限影像數量，影像在裝置上處理。",
+  "tags": [
+   "測量影像上的座標",
+   "兩點間距離",
+   "顏色代碼（HEX・RGB）",
+   "在相同座標比較兩張影像",
+   "裝置端處理",
+   "iPhone / iPad"
+  ],
+  "needs": [
+   [
+    "想以像素為單位知道影像中的位置",
+    "點一下影像放置點，就會立即顯示該位置的座標。用放大鏡可精確到像素。",
+    "座標顯示・放大鏡"
+   ],
+   [
+    "想測量兩點之間的距離",
+    "自動計算 X 差值、Y 差值和直線距離，移動點時數值也會即時更新。",
+    "X/Y 差值與距離計算"
+   ],
+   [
+    "想在螢幕截圖上確認邊距和間隔",
+    "在 App 或網頁的螢幕截圖上放置點，以像素確認元素的位置和間隔。",
+    "兩點差值測量"
+   ],
+   [
+    "想查出影像中的顏色代碼",
+    "以 HEX、RGB 顯示點所在位置的顏色。長按即可拷貝並直接貼上。",
+    "讀取顏色"
+   ],
+   [
+    "想把點準確放在指定座標",
+    "用數字輸入 X、Y，或用滑桿一點一點移動，就能把點準確放在目標座標。",
+    "按座標放置"
+   ],
+   [
+    "想知道距某個點固定間隔的位置",
+    "用數字指定 ΔX、ΔY 或直線距離即可移動另一個點，也能繪製指定半徑的圓。",
+    "差值與距離設置・半徑圓"
+   ],
+   [
+    "想比較重拍的照片中同一位置有什麼變化",
+    "保留第一張影像的 A、B 點並打開第二張影像，在相同座標放置 C、D 點，即可確認位置和顏色的差異。",
+    "比較兩張影像（Pro）"
+   ],
+   [
+    "想反覆重新測量同一位置",
+    "最多儲存 10 組測量過的影像和座標。讀取的點會被鎖定，可以馬上用同一基準重新測量。",
+    "儲存與讀取影像和點（Pro）"
+   ],
+   [
+    "想把測量結果連同影像傳給別人",
+    "可以輸出帶十字線和圓的影像，或含座標面板的影像並分享。",
+    "輸出並分享"
+   ]
+  ],
+  "faq": [
+   [
+    "可以測量哪些影像？",
+    "可以測量 iPhone、iPad「照片」App 中的影像（包括螢幕截圖）。"
+   ],
+   [
+    "能測量實際長度（公分、公釐）嗎？",
+    "不能。本 App 測量的是影像上的座標和距離（像素），沒有換算為實際長度的功能。"
+   ],
+   [
+    "免費能用到什麼程度？",
+    "點一下測量、座標與顏色讀取、X/Y 差值與距離、放大鏡、更改原點位置、相對位置顯示、半徑圓和分享都可以不限次數免費使用（含廣告）。Pro（每月、每年或一次性購買）可使用兩張影像比較以及影像和座標的儲存與讀取（最多 10 組），照片列表也不再顯示廣告。觀看影片廣告可試用兩張影像比較 3 張照片。"
+   ],
+   [
+    "影像會被傳送到外部伺服器嗎？",
+    "不會。影像在裝置上處理，不會傳送到開發者或第三方的伺服器。使用 iCloud 照片時，App 可能會連線至 Apple 的 iCloud 以讀取原始影像；免費版會使用網路顯示廣告。"
+   ],
+   [
+    "支援哪些裝置？",
+    "支援 iOS 18.4 或以上版本的 iPhone，以及 iPadOS 18.4 或以上版本的 iPad。"
+   ],
+   [
+    "和 Image Compare 有什麼不同？",
+    "坐標與顏色 以數字測量影像上的位置、距離和顏色，也能打開兩張影像在相同座標比較（Pro）。Image Compare 則透過疊加兩張影像或為差異著色，確認外觀上的不同。"
+   ]
+  ]
+ }
+}
