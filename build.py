@@ -936,6 +936,7 @@ def page(lang, rel_path, title, body, *, description="", active="", absolute=Fal
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="google-site-verification" content="LvHDKVz8nkrVXeBr2uE1J3WapKCn1XNOWXGnDK0vF10">
 <title>{escape(full_title)}</title>
 <meta name="description" content="{desc}">
 <meta property="og:title" content="{escape(full_title)}">
