@@ -897,7 +897,7 @@ def appstore_url(app, lang):
 # ---------------------------------------------------------------- layout
 
 def page(lang, rel_path, title, body, *, description="", active="", absolute=False,
-         content_lang=None, head_extra=""):
+         content_lang=None, head_extra="", og_image="og-default.png"):
     """rel_path: 言語ルートからの相対パス（例 "apps/picdiff.html"）。
     content_lang: 日英以外の言語ページ（/<言語>/apps/...）を作るときの言語。ヘッダー等は英語（lang="en"）で出す。"""
     t = T[lang]
@@ -943,6 +943,13 @@ def page(lang, rel_path, title, body, *, description="", active="", absolute=Fal
 <meta property="og:description" content="{desc}">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="{'ja_JP' if lang == 'ja' else 'en_US'}">
+<meta property="og:site_name" content="川助商店 kawasuke store">
+<meta property="og:image" content="{SITE}/assets/og/{og_image}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="{escape(full_title)}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{SITE}/assets/og/{og_image}">
 <link rel="alternate" hreflang="{other}" href="{other_href}">{head_extra}
 <link rel="icon" href="{r}favicon.png" type="image/png">
 <link rel="apple-touch-icon" href="{r}apple-touch-icon.png">
@@ -1487,7 +1494,7 @@ def _write_app_page(site_lang, a, langs, clang):
     extra = clang not in ("ja", "en")
     html = page(site_lang, rel, a["full"][clang].split(" – ")[0].split(" - ")[0] if extra else a["name"][site_lang], body,
                 description=f"{a['full'][clang]}: {a['tagline'][clang]}",
-                content_lang=clang if extra else None, head_extra=head_extra)
+                content_lang=clang if extra else None, head_extra=head_extra, og_image=f"og-{a['slug']}.png")
     path = (OUT / clang / rel) if extra else (out_dir(site_lang) / rel)
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(html, encoding="utf-8")
