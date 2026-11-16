@@ -21,6 +21,7 @@ DEVELOPER_PAGE = {"ja": "https://apps.apple.com/jp/developer/masashi-kawakami/id
                   "en": "https://apps.apple.com/developer/masashi-kawakami/id729354347"}
 SITE = "https://kawasukestore.github.io"
 UPDATED = {"ja": "2026年10月12日", "en": "October 12, 2026"}
+EULA_UPDATED = {"ja": "2026年11月17日", "en": "November 17, 2026"}
 
 APPS = [
     {
@@ -1209,7 +1210,7 @@ def guide_html(a, lang, r):
 
 # 利用規約に「アプリ別の補足」があるアプリは、その見出しへ直接リンクする
 EULA_ANCHOR = {"sanpai": "#app-sanpai", "findsimilarpics": "#app-photos",
-               "heifconvert": "#app-photos", "fishing": "#app-fishing"}
+               "heifconvert": "#app-photos", "fishing": "#app-fishing", "uranai": "#app-uranai"}
 
 
 # ---------------------------------------------------------------- アプリページ専用の多言語化
@@ -1500,12 +1501,12 @@ def _write_app_page(site_lang, a, langs, clang):
     path.write_text(html, encoding="utf-8")
 
 
-def legal_page(lang, rel, title, inner, active):
+def legal_page(lang, rel, title, inner, active, updated=None):
     body = f"""
 <section class="section">
   <div class="wrap legal">
     <h1>{title}</h1>
-    <p class="updated">{T[lang]['updated']}{UPDATED[lang]}</p>
+    <p class="updated">{T[lang]['updated']}{updated or UPDATED[lang]}</p>
 {inner}
   </div>
 </section>
@@ -1714,6 +1715,15 @@ def build_eula():
   <li>換算値、早見表、道糸・ハリスの太さの提案は、一般的な目安です。規格はメーカーや製品によって異なるため、実際の製品の表示を優先してください。</li>
   <li>釣行中の安全確保は、利用者ご自身でお願いします。</li>
 </ol>
+
+<h3 id="app-uranai">ウラナイン</h3>
+<ol>
+  <li>本アプリが表示する占いの結果・運勢・ランク・「今日の処方」などは、娯楽と自己理解を目的とした参考情報です。科学的・医学的な裏づけにもとづくものではありません。</li>
+  <li>占いの結果を、医療・健康、法律、金融・投資、進学・就職・結婚などの重要な判断の根拠にしないでください。心身の不調や健康上の不安があるときは、医療機関や専門家にご相談ください。</li>
+  <li>「的中」や当たりやすさ、FIT値・順位などの表示は、これまでの入力とご自身の評価にもとづく目安であり、結果や将来を保証・予言するものではありません。</li>
+  <li>生年月日・お名前などの入力は、占術の計算に用いるため端末内で処理し、占いのために当方のサーバーへ送信することはありません。取り扱いの詳細は<a href="privacy.html">プライバシーポリシー</a>に記載しています。</li>
+  <li>ご家族など他の方の情報を入力する場合は、ご本人の同意を得たうえでご利用ください。</li>
+</ol>
 """
     en = f"""
 <p>These Terms set out the conditions for using the iOS apps that Kawasuke Store (川助商店, "we") provides on the App Store (the "Apps"). Apple's <a href="{APPLE_EULA}" target="_blank" rel="noopener">Licensed Application End User License Agreement</a> (Standard EULA) applies to the Apps. These Terms are additional conditions set by us; if they conflict, Apple's Standard EULA prevails.</p>
@@ -1812,9 +1822,18 @@ def build_eula():
   <li>Conversion values, reference charts and suggested line and leader sizes are general guides. Standards vary by manufacturer and product, so always follow the actual product labeling.</li>
   <li>Please take responsibility for your own safety while fishing.</li>
 </ol>
+
+<h3 id="app-uranai">Uranain</h3>
+<ol>
+  <li>The fortunes, luck ranks and "today's prescription" shown in the App are reference information intended for entertainment and self-reflection. They are not based on scientific or medical evidence.</li>
+  <li>Do not rely on the results for important decisions such as medical or health matters, legal matters, finance or investment, or education, employment or marriage. If you have concerns about your physical or mental health, please consult a medical institution or a professional.</li>
+  <li>Indicators such as "hits," hit rate, FIT values and rankings are guides based on your past entries and your own ratings; they do not guarantee or predict any result or the future.</li>
+  <li>Entries such as your date of birth and name are processed on your device for the divination calculations and are not sent to our servers for that purpose. Details of how data is handled are in our <a href="privacy.html">Privacy Policy</a>.</li>
+  <li>If you enter information about other people, such as family members, please do so only with their consent.</li>
+</ol>
 """
-    legal_page("ja", "eula.html", "利用規約（EULA）", ja, "eula")
-    legal_page("en", "eula.html", "Terms of Use (EULA)", en, "eula")
+    legal_page("ja", "eula.html", "利用規約（EULA）", ja, "eula", updated=EULA_UPDATED["ja"])
+    legal_page("en", "eula.html", "Terms of Use (EULA)", en, "eula", updated=EULA_UPDATED["en"])
 
 
 def build_404(lang):
