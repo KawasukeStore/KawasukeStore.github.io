@@ -811,6 +811,100 @@ APPS = [
         "pricing": {"ja": ["基本無料（広告あり）", "月額 ¥100 / 年額 ¥800"],
                     "en": ["Free with ads", "¥100 / month, ¥800 / year"]},
     },
+    {
+        "slug": "uranai",
+        "id": "6834646415",
+        "name": {"ja": "ウラナイン", "en": "Uranain"},
+        "full": {"ja": "ウラナイン - 9つの占いと今日の運勢", "en": "Uranain - 9 Fortunes & Today's Luck"},
+        "tagline": {"ja": "使うほど、あなたに合う占いへ。",
+                    "en": "The more you use it, the better it fits you."},
+        "category": {"ja": "ライフスタイル", "en": "Lifestyle"},
+        "os": {"ja": "iOS 18.4 以降", "en": "iOS 18.4 or later"},
+        "features": {
+            "ja": [
+                "9つの占いから、今日の運勢を5段階で。理由と意識したいことも一言で",
+                "いちばん相性の良い占いの「常備薬」と、9つを配合した「調合薬」",
+                "夜に今日の実感を5段階で記録すると、翌朝に相性度が更新",
+                "どの占いが当たっているかを、ランキングや的中率の推移でふり返り",
+                "記録は「一覧」と「お薬手帳」で見返せる",
+                "アカウント登録不要。生年月日や名前などの入力は端末の中だけで扱います",
+            ],
+            "en": [
+                "Today's fortune on a 5-level scale from 9 kinds of fortune-telling, with a short reason and what to keep in mind",
+                "A daily “regular” from your best-fitting method, plus a “blend” of all nine",
+                "Rate how your day actually went each evening; fit scores update the next morning",
+                "See which methods hit for you with rankings and hit-rate trends",
+                "Look back through a simple list or a “medicine notebook” view",
+                "No account needed. Your birth date, name and other inputs stay on your device",
+            ],
+        },
+        "guide": [
+            {
+                "img": "screens/uranai-onboarding.jpg",
+                "title": {"ja": "どの占いが効くかは、これから測る", "en": "Find out which fortunes work for you"},
+                "body": {
+                    "ja": "四柱・日干支、宿曜、数秘術、九星気学、バイオリズム、姓名判断×六曜、西洋占星術、マヤ暦、ルーン×十二直。9つの占いが、はじめは同じ相性度で棚に並びます。毎晩の実感を記録するたび、当たった占いの相性度が上がっていきます。",
+                    "en": "Nine methods — Four Pillars, Sukuyo, numerology, Nine Star Ki, biorhythm, name reading × Rokuyo, Western astrology, the Maya Tzolkin and runes × Junichoku — start on the shelf with the same fit score. Each evening you record how the day went, and the methods that got it right score higher.",
+                },
+                "points": {
+                    "ja": [
+                        "朝：今日の処方（運勢）を読む",
+                        "夜：今日の実感を5段階で記録する",
+                        "翌朝：相性度が更新され、配合が変わる",
+                        "3日でズレの傾向、5日で一致マップ、7日で的中率の推移",
+                    ],
+                    "en": [
+                        "Morning: read today's prescription (your fortune)",
+                        "Evening: rate how the day actually felt, from 1 to 5",
+                        "Next morning: fit scores update and the blend changes",
+                        "After 3 days see your gap tendency, after 5 a match map, after 7 your hit-rate trend",
+                    ],
+                },
+            },
+            {
+                "img": "screens/uranai-blend.jpg",
+                "title": {"ja": "9つの占いを、あなた向けに調合", "en": "Nine fortunes, blended for you"},
+                "body": {
+                    "ja": "「調合薬」は、9つの占いを相性度に応じた分量で混ぜ合わせた、今日の運勢です。成分・分量の表で、どの占いがどれだけ効いているかがひと目でわかります。",
+                    "en": "The “blend” is today's fortune mixed from all nine methods, weighted by how well each fits you. The ingredients table shows exactly how much each method contributes.",
+                },
+                "points": {
+                    "ja": [
+                        "今日の効き目を5段階と一言で",
+                        "分量は、相性度・均等配分・再発見枠から決まる",
+                        "「再発見」で、ふだん控えめな占いにも出番が回ってくる",
+                    ],
+                    "en": [
+                        "Today's strength on a 5-level scale with a one-line message",
+                        "Amounts come from fit scores, an even base share and a rediscovery slot",
+                        "The “rediscovery” slot gives quieter methods a turn too",
+                    ],
+                },
+            },
+            {
+                "img": "screens/uranai-notebook.jpg",
+                "title": {"ja": "毎日の記録を、お薬手帳でふり返る", "en": "Look back in your medicine notebook"},
+                "body": {
+                    "ja": "「振り返り」では、日ごとの常備薬・調合薬の予測と、その日の実感を並べて残します。予測が実感と合えば「的中」、外れればその差が記されます。",
+                    "en": "In Review, each day's predictions from your regular and your blend sit next to how the day actually felt. A match is marked as a hit; otherwise the gap is shown.",
+                },
+                "points": {
+                    "ja": [
+                        "「一覧」と「お薬手帳」の2つの見せ方",
+                        "常備薬・調合薬それぞれの的中数を集計",
+                        "日付・占い・予測・実感・的中などで絞り込み",
+                    ],
+                    "en": [
+                        "Two views: a simple list and a medicine notebook",
+                        "Hit counts for your regular and your blend",
+                        "Filter by date, method, prediction, how you felt or hits",
+                    ],
+                },
+            },
+        ],
+        "pricing": {"ja": ["基本無料（広告あり）", "広告オフ（買い切り）¥500"],
+                    "en": ["Free with ads", "Remove ads (one-time): ¥500"]},
+    },
 ]
 
 # ---------------------------------------------------------------- UI text
@@ -1045,7 +1139,7 @@ def rank_badge(a, lang):
 
 
 # 直近3か月のダウンロード数の順（4位以下の並び順に使う。数値はサイトに出さない）
-DL_ORDER = ["fishing", "heifconvert", "gengoseireki", "sanpai"]
+DL_ORDER = ["fishing", "heifconvert", "gengoseireki", "sanpai", "uranai"]
 
 
 def build_index(lang):
